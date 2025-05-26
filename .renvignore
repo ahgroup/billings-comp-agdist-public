@@ -1,0 +1,7 @@
+products/
+!products/manuscript/
+auxiliary/
+results/
+logs/
+assets/
+data/

@@ -1,0 +1,5 @@
+#SDMCCDataTemplate:Study_Inclusion_v1.0
+Study_Code,Criterion_ID,Criterion_Category,Criterion_Description
+"Study-320_antigenic_dist","SD","Exclusion","Only standard dose vaccine recipients were recruited."
+"Study-320_antigenic_dist","Season","Inclusion","Records from the 2013/14 to 2017/2018 seasons were used."
+"Study-320_antigenic_dist","AllVisits","Exclusion","Only patients with data from both a pre- and post-vaccination visit were used."

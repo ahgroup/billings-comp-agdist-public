@@ -1,0 +1,4 @@
+#SDMCCDataTemplate:Study_Planned_Visits_v1.1
+Study_Code,Planned_Visit_ID,Planned_Visit_Name,Planned_Visit_Order_Number,Interval,Planned_Visit_Min_Start_Day,Planned_Visit_Max_Start_Day,Planned_Visit_Start_Rule,Planned_Visit_End_Rule
+"Study-320_antigenic_dist","Pre-Vac-Visit","Pre-vaccination visit","1","Not Applicable","0","0","Individual presents to center where vaccine is available and has no contraindictions for administration of FluZone vaccine.","Subject completes intake form with demographic questionnaire, completes all pre-vaccination samples (e.g. serum), and vaccine is administered."
+"Study-320_antigenic_dist","Post-Vac-Visit","Post-vaccination visit","2","Not Applicable","21","28","Previously vaccinated individual presents to study site at appointment time with no contraindications for sample collection.","Subject completes all required samples for day 28 time point."

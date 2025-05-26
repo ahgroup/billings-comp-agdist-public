@@ -1,0 +1,57 @@
+| Subtype | Strain | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 |
+| --- | --- | --- | --- | --- | --- | --- |
+| A(H1N1) | SC/18 | X | X | X | X | X |
+| | PR/34 | X | | | | |
+| | Wei/43 | X | X | X | X | X |
+| | FM/47 | X | X | X | X | X |
+| | Den/57 | X | X | X | X | X |
+| | NJ/76 | X | X | X | X | X |
+| | USSR/77 | X | X | X | X | X |
+| | Bra/78 | X | | | X | X |
+| | CA/78 | | X | X | | |
+| | Chi/83 | X | X | X | X | X |
+| | Sing/86 | X | X | X | X | X |
+| | TX/91 | X | X | X | X | X |
+| | Bei/95 | X | X | X | X | X |
+| | NC/99 | X | X | X | X | X |
+| | SI/06 | X | X | X | X | X |
+| | Bris/07 | X | X | X | X | X |
+| | CA/09 | X | X | X | X | X |
+| | MI/15 | | | | X | X |
+| A(H3N2) | HK/68 | X | X | X | X | X |
+| | PC/73 | X | X | X | X | X |
+| | TX/77 | X | X | X | X | X |
+| | MI/85 | X | X | X | X | X |
+| | Sich/87 | X | X | X | X | X |
+| | Shan/93 | X | X | X | X | X |
+| | Nan/95 | X | X | X | X | X |
+| | Syd/97 | X | X | X | X | X |
+| | Pan/99 | X | X | X | X | X |
+| | Fuj/02 | X | X | X | | |
+| | NY/04 | X | X | X | X | X |
+| | Br/07 | X | | | | |
+| | WI/05 | X | X | X | X | X |
+| | Uru/07 | | X | X | X | X |
+| | Per/09 | X | X | X | X | X |
+| | Vic/11 | X | X | X | X | X |
+| | TX/12 | X | X | X | X | X |
+| | Switz/13 | X | X | X | X | X |
+| | HK/14 | | X | X | X | X |
+| | Sing/16 | | | | | X |
+| B(Presplit) | Lee/40 | X | X | X | X | |
+| | MD/59 | | X | X | X | |
+| | Sing/64 | | X | X | X | |
+| B(Victoria) | Vic/87 | | | | X | X |
+| | HK/01 | | | X | X | X |
+| | Mal/04 | | | X | X | X |
+| | Vic/06 | | | X | X | X |
+| | Bris/08 | | | X | X | X |
+| | CO/17 | | | X | X | X |
+| B(Yamagata) | Yam/88 | X | X | X | X | X |
+| | Harb/94 | X | X | X | X | X |
+| | Sich/99 | X | X | X | X | X |
+| | FL/06 | X | X | X | X | X |
+| | WI/10 | X | X | X | X | X |
+| | TX/11 | X | X | X | X | X |
+| | MA/12 | X | X | X | X | X |
+| | Phu/13 | X | X | X | X | X |

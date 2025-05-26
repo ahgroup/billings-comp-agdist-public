@@ -1,0 +1,10 @@
+| Metric | Model | Max. Pareto k | Min. N_eff | Max. R_eff |
+| --- | --- | --- | --- | --- |
+| Cartographic | GAMM | -Inf | Inf | -Inf |
+| | LMM | -Inf | Inf | -Inf |
+| p-Epitope | GAMM | -Inf | Inf | -Inf |
+| | LMM | -Inf | Inf | -Inf |
+| Grantham | GAMM | -Inf | Inf | -Inf |
+| | LMM | -Inf | Inf | -Inf |
+| Temporal | GAMM | -Inf | Inf | -Inf |
+| | LMM | -Inf | Inf | -Inf |

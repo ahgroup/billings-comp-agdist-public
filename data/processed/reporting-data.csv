@@ -1,0 +1,1164 @@
+Study_Code,Subject_ID,Cohort_ID,Sex_Assigned_at_Birth,Gender,Min_Age,Max_Age,Subject_Age_Unit,Birth_Year,Subject_Age_Event,Subject_Phenotype,Subject_Location,Ethnicity,Race,Subject_Description
+TBD,pa_id_0007,PA_2013_SD,Female,Cisgender Woman,55,60,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0008,PA_2013_SD,Female,Cisgender Woman,58,58,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0012,PA_2013_SD,Female,Cisgender Woman,60,60,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0029,PA_2013_SD,Female,Cisgender Woman,70,70,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0031,PA_2013_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0036,PA_2013_SD,Female,Cisgender Woman,73,73,Years,1940,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0108,PA_2013_SD,Female,Cisgender Woman,58,62,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0112,PA_2013_SD,Female,Cisgender Woman,57,59,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0115,PA_2013_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0121,PA_2013_SD,Female,Cisgender Woman,54,56,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0139,PA_2013_SD,Female,Cisgender Woman,60,60,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0150,PA_2013_SD,Male,Cisgender Man,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0151,PA_2013_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0201,PA_2013_SD,Female,Cisgender Woman,70,70,Years,1943,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0203,PA_2013_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0204,PA_2013_SD,Female,Cisgender Woman,57,57,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0206,PA_2013_SD,Female,Cisgender Woman,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0210,PA_2013_SD,Female,Cisgender Woman,75,75,Years,1938,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0211,PA_2013_SD,Female,Cisgender Woman,56,57,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0212,PA_2013_SD,Female,Cisgender Woman,70,70,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0218,PA_2013_SD,Female,Cisgender Woman,52,55,Years,1961,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0221,PA_2013_SD,Male,Cisgender Man,73,73,Years,1940,Age at enrollment,Not Collected,2,2,OTH-Hispanic/Latino,Not Provided
+TBD,pa_id_0230,PA_2013_SD,Female,Cisgender Woman,64,64,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0233,PA_2013_SD,Female,Cisgender Woman,57,58,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0236,PA_2013_SD,Male,Cisgender Man,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0248,PA_2013_SD,Male,Cisgender Man,77,77,Years,1936,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0249,PA_2013_SD,Female,Cisgender Woman,67,67,Years,1946,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0259,PA_2013_SD,Female,Cisgender Woman,54,58,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0265,PA_2013_SD,Female,Cisgender Woman,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0267,PA_2013_SD,Male,Cisgender Man,62,62,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0269,PA_2013_SD,Female,Cisgender Woman,57,57,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0271,PA_2013_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0301,PA_2013_SD,Female,Cisgender Woman,56,59,Years,1957,Age at enrollment,Not Collected,2,1,Asian,Not Provided
+TBD,pa_id_0302,PA_2013_SD,Male,Cisgender Man,81,84,Years,1932,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0303,PA_2013_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0304,PA_2013_SD,Female,Cisgender Woman,56,56,Years,1957,Age at enrollment,Not Collected,2,1,Asian,Not Provided
+TBD,pa_id_0306,PA_2013_SD,Female,Cisgender Woman,53,56,Years,1960,Age at enrollment,Not Collected,2,3,Not Specified,Not Provided
+TBD,pa_id_0312,PA_2013_SD,Female,Cisgender Woman,55,58,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0316,PA_2013_SD,Female,Cisgender Woman,68,70,Years,1945,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0320,PA_2013_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0326,PA_2013_SD,Female,Cisgender Woman,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0329,PA_2013_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0332,PA_2013_SD,Male,Cisgender Man,55,57,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1003,PA_2013_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1012,PA_2013_SD,Female,Cisgender Woman,67,67,Years,1946,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1015,PA_2013_SD,Female,Cisgender Woman,64,64,Years,1949,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1016,PA_2013_SD,Female,Cisgender Woman,56,57,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1017,PA_2013_SD,Female,Cisgender Woman,63,66,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1102,PA_2013_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1104,PA_2013_SD,Female,Cisgender Woman,54,54,Years,1959,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1109,PA_2013_SD,Female,Cisgender Woman,66,66,Years,1947,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1115,PA_2013_SD,Female,Cisgender Woman,52,56,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1118,PA_2013_SD,Female,Cisgender Woman,67,67,Years,1946,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1119,PA_2013_SD,Female,Cisgender Woman,52,53,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1122,PA_2013_SD,Male,Cisgender Man,63,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1124,PA_2013_SD,Female,Cisgender Woman,51,51,Years,1962,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1130,PA_2013_SD,Female,Cisgender Woman,69,69,Years,1944,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1135,PA_2013_SD,Female,Cisgender Woman,62,64,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1137,PA_2013_SD,Female,Cisgender Woman,59,59,Years,1954,Age at enrollment,Not Collected,2,2,OTH-Hispanic/Latino,Not Provided
+TBD,pa_id_1207,PA_2013_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1211,PA_2013_SD,Female,Cisgender Woman,67,67,Years,1946,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1212,PA_2013_SD,Female,Cisgender Woman,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1217,PA_2013_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1223,PA_2013_SD,Female,Cisgender Woman,70,74,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1224,PA_2013_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,3,Not Specified,Not Provided
+TBD,pa_id_1227,PA_2013_SD,Female,Cisgender Woman,77,77,Years,1936,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1231,PA_2013_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1235,PA_2013_SD,Female,Cisgender Woman,68,69,Years,1945,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1240,PA_2013_SD,Female,Cisgender Woman,62,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3400,PA_2013_SD,Female,Cisgender Woman,27,27,Years,1986,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3404,PA_2013_SD,Female,Cisgender Woman,27,27,Years,1986,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3405,PA_2013_SD,Male,Cisgender Man,26,26,Years,1987,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3406,PA_2013_SD,Male,Cisgender Man,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,fl_id_1007,FL_2013_SD,Female,Cisgender Woman,33,35,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1025,FL_2013_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0103,FL_2013_SD,Female,Cisgender Woman,32,32,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0104,FL_2013_SD,Female,Cisgender Woman,65,65,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1012,FL_2013_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1008,FL_2013_SD,Female,Cisgender Woman,25,28,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1001,FL_2013_SD,Female,Cisgender Woman,32,34,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1055,FL_2013_SD,Male,Cisgender Man,68,69,Years,1945,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0109,FL_2013_SD,Female,Cisgender Woman,35,35,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1026,FL_2013_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1006,FL_2013_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0112,FL_2013_SD,Female,Cisgender Woman,23,23,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1050,FL_2013_SD,Male,Cisgender Man,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0114,FL_2013_SD,Female,Cisgender Woman,23,23,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1032,FL_2013_SD,Male,Cisgender Man,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0116,FL_2013_SD,Female,Cisgender Woman,35,35,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0117,FL_2013_SD,Female,Cisgender Woman,34,34,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0118,FL_2013_SD,Male,Cisgender Man,33,33,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0119,FL_2013_SD,Female,Cisgender Woman,28,28,Years,1985,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1048,FL_2013_SD,Female,Cisgender Woman,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1074,FL_2013_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1112,FL_2013_SD,Female,Cisgender Woman,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0123,FL_2013_SD,Male,Cisgender Man,31,31,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1124,FL_2013_SD,Male,Cisgender Man,35,36,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1088,FL_2013_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0126,FL_2013_SD,Male,Cisgender Man,63,63,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0127,FL_2013_SD,Female,Cisgender Woman,25,25,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0128,FL_2013_SD,Female,Cisgender Woman,77,77,Years,1936,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1013,FL_2013_SD,Female,Cisgender Woman,67,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0131,FL_2013_SD,Female,Cisgender Woman,68,68,Years,1945,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1089,FL_2013_SD,Female,Cisgender Woman,79,82,Years,1934,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1047,FL_2013_SD,Female,Cisgender Woman,66,74,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1053,FL_2013_SD,Male,Cisgender Man,80,81,Years,1933,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0135,FL_2013_SD,Female,Cisgender Woman,69,69,Years,1944,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1061,FL_2013_SD,Male,Cisgender Man,74,75,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1120,FL_2013_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1154,FL_2013_SD,Female,Cisgender Woman,72,74,Years,1941,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1016,FL_2013_SD,Female,Cisgender Woman,74,77,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0140,FL_2013_SD,Female,Cisgender Woman,65,65,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1137,FL_2013_SD,Male,Cisgender Man,24,27,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0142,FL_2013_SD,Female,Cisgender Woman,30,30,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1005,FL_2013_SD,Male,Cisgender Man,73,74,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0144,FL_2013_SD,Female,Cisgender Woman,61,61,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1009,FL_2013_SD,Female,Cisgender Woman,63,64,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1036,FL_2013_SD,Female,Cisgender Woman,67,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1066,FL_2013_SD,Male,Cisgender Man,66,67,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1044,FL_2013_SD,Female,Cisgender Woman,65,66,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1077,FL_2013_SD,Female,Cisgender Woman,70,73,Years,1943,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1011,FL_2013_SD,Female,Cisgender Woman,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1034,FL_2013_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1049,FL_2013_SD,Female,Cisgender Woman,24,25,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1014,FL_2013_SD,Female,Cisgender Woman,28,29,Years,1985,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1037,FL_2013_SD,Female,Cisgender Woman,34,35,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1018,FL_2013_SD,Female,Cisgender Woman,37,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0156,FL_2013_SD,Male,Cisgender Man,32,32,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0157,FL_2013_SD,Female,Cisgender Woman,28,28,Years,1985,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0158,FL_2013_SD,Female,Cisgender Woman,34,34,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0159,FL_2013_SD,Male,Cisgender Man,23,23,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1082,FL_2013_SD,Female,Cisgender Woman,32,33,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_0161,FL_2013_SD,Female,Cisgender Woman,23,23,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1023,FL_2014_SD,Female,Cisgender Woman,20,20,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1101,FL_2014_SD,Female,Cisgender Woman,21,22,Years,1993,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1062,FL_2014_SD,Female,Cisgender Woman,23,24,Years,1991,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1117,FL_2014_SD,Female,Cisgender Woman,23,23,Years,1991,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1011,FL_2014_SD,Female,Cisgender Woman,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1032,FL_2014_SD,Male,Cisgender Man,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1060,FL_2014_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1108,FL_2014_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1006,FL_2014_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1034,FL_2014_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1049,FL_2014_SD,Female,Cisgender Woman,24,25,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1054,FL_2014_SD,Female,Cisgender Woman,25,25,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1056,FL_2014_SD,Female,Cisgender Woman,25,26,Years,1989,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1065,FL_2014_SD,Female,Cisgender Woman,25,26,Years,1989,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1070,FL_2014_SD,Female,Cisgender Woman,25,27,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1137,FL_2014_SD,Male,Cisgender Man,24,27,Years,1989,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1008,FL_2014_SD,Female,Cisgender Woman,25,28,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1071,FL_2014_SD,Female,Cisgender Woman,26,28,Years,1988,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1158,FL_2014_SD,Female,Cisgender Woman,26,26,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1019,FL_2014_SD,Female,Cisgender Woman,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1139,FL_2014_SD,Male,Cisgender Man,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1059,FL_2014_SD,Female,Cisgender Woman,28,28,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1090,FL_2014_SD,Female,Cisgender Woman,28,30,Years,1986,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1099,FL_2014_SD,Male,Cisgender Man,28,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1014,FL_2014_SD,Female,Cisgender Woman,28,29,Years,1985,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1085,FL_2014_SD,Female,Cisgender Woman,29,29,Years,1985,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1103,FL_2014_SD,Male,Cisgender Man,29,29,Years,1985,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1003,FL_2014_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1098,FL_2014_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1145,FL_2014_SD,Female,Cisgender Woman,30,31,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1153,FL_2014_SD,Male,Cisgender Man,30,31,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1155,FL_2014_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1105,FL_2014_SD,Male,Cisgender Man,31,33,Years,1983,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1109,FL_2014_SD,Female,Cisgender Woman,31,32,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1111,FL_2014_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1144,FL_2014_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1157,FL_2014_SD,Female,Cisgender Woman,31,31,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1087,FL_2014_SD,Male,Cisgender Man,32,33,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1001,FL_2014_SD,Female,Cisgender Woman,32,34,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1080,FL_2014_SD,Female,Cisgender Woman,33,35,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1082,FL_2014_SD,Female,Cisgender Woman,32,33,Years,1981,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1007,FL_2014_SD,Female,Cisgender Woman,33,35,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1025,FL_2014_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1074,FL_2014_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1106,FL_2014_SD,Male,Cisgender Man,34,36,Years,1980,Age at enrollment,Not Collected,1,3,Not Specified,Not Provided
+TBD,fl_id_1037,FL_2014_SD,Female,Cisgender Woman,34,35,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1097,FL_2014_SD,Female,Cisgender Woman,35,36,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1102,FL_2014_SD,Female,Cisgender Woman,35,36,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1110,FL_2014_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1121,FL_2014_SD,Male,Cisgender Man,35,37,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1138,FL_2014_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1124,FL_2014_SD,Male,Cisgender Man,35,36,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1015,FL_2014_SD,Female,Cisgender Woman,37,37,Years,1977,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1068,FL_2014_SD,Female,Cisgender Woman,37,37,Years,1977,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1072,FL_2014_SD,Male,Cisgender Man,37,37,Years,1977,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1094,FL_2014_SD,Female,Cisgender Woman,37,38,Years,1977,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1018,FL_2014_SD,Female,Cisgender Woman,37,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1125,FL_2014_SD,Female,Cisgender Woman,38,38,Years,1976,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1142,FL_2014_SD,Female,Cisgender Woman,38,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1040,FL_2014_SD,Male,Cisgender Man,39,39,Years,1975,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1127,FL_2014_SD,Male,Cisgender Man,39,41,Years,1975,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1107,FL_2014_SD,Female,Cisgender Woman,41,41,Years,1973,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1033,FL_2014_SD,Female,Cisgender Woman,42,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1075,FL_2014_SD,Female,Cisgender Woman,42,42,Years,1972,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1031,FL_2014_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1095,FL_2014_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1123,FL_2014_SD,Female,Cisgender Woman,44,46,Years,1970,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1147,FL_2014_SD,Female,Cisgender Woman,44,44,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1043,FL_2014_SD,Male,Cisgender Man,45,47,Years,1969,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1064,FL_2014_SD,Female,Cisgender Woman,45,45,Years,1969,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1010,FL_2014_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1028,FL_2014_SD,Female,Cisgender Woman,46,46,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1081,FL_2014_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1113,FL_2014_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1021,FL_2014_SD,Female,Cisgender Woman,47,49,Years,1967,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1024,FL_2014_SD,Female,Cisgender Woman,47,47,Years,1967,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1073,FL_2014_SD,Male,Cisgender Man,47,47,Years,1967,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1002,FL_2014_SD,Male,Cisgender Man,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1042,FL_2014_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1114,FL_2014_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1118,FL_2014_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1126,FL_2014_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1083,FL_2014_SD,Female,Cisgender Woman,49,49,Years,1965,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1004,FL_2014_SD,Male,Cisgender Man,50,50,Years,1964,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1092,FL_2014_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1146,FL_2014_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1045,FL_2014_SD,Female,Cisgender Woman,51,53,Years,1963,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1067,FL_2014_SD,Male,Cisgender Man,51,53,Years,1963,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1156,FL_2014_SD,Female,Cisgender Woman,52,54,Years,1962,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1035,FL_2014_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1069,FL_2014_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1122,FL_2014_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1038,FL_2014_SD,Female,Cisgender Woman,56,58,Years,1958,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1076,FL_2014_SD,Female,Cisgender Woman,57,58,Years,1957,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1063,FL_2014_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1140,FL_2014_SD,Male,Cisgender Man,58,58,Years,1956,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1029,FL_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1039,FL_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1052,FL_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1086,FL_2014_SD,Male,Cisgender Man,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1093,FL_2014_SD,Male,Cisgender Man,60,61,Years,1954,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1041,FL_2014_SD,Female,Cisgender Woman,61,62,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1058,FL_2014_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1100,FL_2014_SD,Female,Cisgender Woman,61,61,Years,1953,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1115,FL_2014_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1048,FL_2014_SD,Female,Cisgender Woman,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1079,FL_2014_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1088,FL_2014_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1148,FL_2014_SD,Male,Cisgender Man,62,63,Years,1952,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1012,FL_2014_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1078,FL_2014_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1009,FL_2014_SD,Female,Cisgender Woman,63,64,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1026,FL_2014_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1120,FL_2014_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1129,FL_2014_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,1,1,Native Hawaiian or Other Pacific Islander,Not Provided
+TBD,fl_id_1027,FL_2014_SD,Female,Cisgender Woman,66,66,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1044,FL_2014_SD,Female,Cisgender Woman,65,66,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1091,FL_2014_SD,Female,Cisgender Woman,66,66,Years,1948,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1116,FL_2014_SD,Female,Cisgender Woman,66,67,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1135,FL_2014_SD,Female,Cisgender Woman,66,66,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1066,FL_2014_SD,Male,Cisgender Man,66,67,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1084,FL_2014_SD,Female,Cisgender Woman,67,67,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1136,FL_2014_SD,Female,Cisgender Woman,67,67,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1150,FL_2014_SD,Female,Cisgender Woman,67,67,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1013,FL_2014_SD,Female,Cisgender Woman,67,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1036,FL_2014_SD,Female,Cisgender Woman,67,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1128,FL_2014_SD,Male,Cisgender Man,68,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1130,FL_2014_SD,Female,Cisgender Woman,68,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1133,FL_2014_SD,Female,Cisgender Woman,68,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1141,FL_2014_SD,Female,Cisgender Woman,68,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1151,FL_2014_SD,Female,Cisgender Woman,68,68,Years,1946,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1055,FL_2014_SD,Male,Cisgender Man,68,69,Years,1945,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1077,FL_2014_SD,Female,Cisgender Woman,70,73,Years,1943,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1119,FL_2014_SD,Male,Cisgender Man,72,72,Years,1942,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1134,FL_2014_SD,Female,Cisgender Woman,73,73,Years,1941,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1154,FL_2014_SD,Female,Cisgender Woman,72,74,Years,1941,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1005,FL_2014_SD,Male,Cisgender Man,73,74,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1047,FL_2014_SD,Female,Cisgender Woman,66,74,Years,1947,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1050,FL_2014_SD,Male,Cisgender Man,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1112,FL_2014_SD,Female,Cisgender Woman,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1152,FL_2014_SD,Male,Cisgender Man,74,75,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1016,FL_2014_SD,Female,Cisgender Woman,74,77,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1051,FL_2014_SD,Female,Cisgender Woman,75,75,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1057,FL_2014_SD,Male,Cisgender Man,75,75,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1061,FL_2014_SD,Male,Cisgender Man,74,75,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1131,FL_2014_SD,Female,Cisgender Woman,75,75,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1046,FL_2014_SD,Female,Cisgender Woman,77,77,Years,1937,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1132,FL_2014_SD,Female,Cisgender Woman,77,79,Years,1937,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1089,FL_2014_SD,Female,Cisgender Woman,79,82,Years,1934,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1053,FL_2014_SD,Male,Cisgender Man,80,81,Years,1933,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1174,FL_2015_SD,Female,Cisgender Woman,21,22,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1179,FL_2015_SD,Female,Cisgender Woman,21,22,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1101,FL_2015_SD,Female,Cisgender Woman,21,22,Years,1993,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1182,FL_2015_SD,Female,Cisgender Woman,22,22,Years,1993,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1062,FL_2015_SD,Female,Cisgender Woman,23,24,Years,1991,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1191,FL_2015_SD,Female,Cisgender Woman,24,24,Years,1991,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1011,FL_2015_SD,Female,Cisgender Woman,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1032,FL_2015_SD,Male,Cisgender Man,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1060,FL_2015_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1108,FL_2015_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1006,FL_2015_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1034,FL_2015_SD,Female,Cisgender Woman,24,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1056,FL_2015_SD,Female,Cisgender Woman,25,26,Years,1989,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1065,FL_2015_SD,Female,Cisgender Woman,25,26,Years,1989,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1070,FL_2015_SD,Female,Cisgender Woman,25,27,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1137,FL_2015_SD,Male,Cisgender Man,24,27,Years,1989,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1171,FL_2015_SD,Female,Cisgender Woman,26,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1176,FL_2015_SD,Female,Cisgender Woman,26,26,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1008,FL_2015_SD,Female,Cisgender Woman,25,28,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1071,FL_2015_SD,Female,Cisgender Woman,26,28,Years,1988,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1161,FL_2015_SD,Female,Cisgender Woman,27,27,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1193,FL_2015_SD,Male,Cisgender Man,27,27,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1019,FL_2015_SD,Female,Cisgender Woman,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1139,FL_2015_SD,Male,Cisgender Man,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1160,FL_2015_SD,Male,Cisgender Man,28,28,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1166,FL_2015_SD,Female,Cisgender Woman,28,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1167,FL_2015_SD,Female,Cisgender Woman,28,28,Years,1987,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1090,FL_2015_SD,Female,Cisgender Woman,28,30,Years,1986,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1099,FL_2015_SD,Male,Cisgender Man,28,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1180,FL_2015_SD,Female,Cisgender Woman,29,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1159,FL_2015_SD,Male,Cisgender Man,30,30,Years,1985,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1003,FL_2015_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1098,FL_2015_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1145,FL_2015_SD,Female,Cisgender Woman,30,31,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1153,FL_2015_SD,Male,Cisgender Man,30,31,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1155,FL_2015_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1164,FL_2015_SD,Female,Cisgender Woman,31,31,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1105,FL_2015_SD,Male,Cisgender Man,31,33,Years,1983,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1109,FL_2015_SD,Female,Cisgender Woman,31,32,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1111,FL_2015_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1144,FL_2015_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1149,FL_2015_SD,Female,Cisgender Woman,32,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1087,FL_2015_SD,Male,Cisgender Man,32,33,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1168,FL_2015_SD,Female,Cisgender Woman,33,34,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1183,FL_2015_SD,Female,Cisgender Woman,33,34,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1001,FL_2015_SD,Female,Cisgender Woman,32,34,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1080,FL_2015_SD,Female,Cisgender Woman,33,35,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1175,FL_2015_SD,Female,Cisgender Woman,34,35,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1007,FL_2015_SD,Female,Cisgender Woman,33,35,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1025,FL_2015_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1074,FL_2015_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1106,FL_2015_SD,Male,Cisgender Man,34,36,Years,1980,Age at enrollment,Not Collected,1,3,Not Specified,Not Provided
+TBD,fl_id_1165,FL_2015_SD,Female,Cisgender Woman,35,35,Years,1980,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1097,FL_2015_SD,Female,Cisgender Woman,35,36,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1102,FL_2015_SD,Female,Cisgender Woman,35,36,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1110,FL_2015_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1138,FL_2015_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1194,FL_2015_SD,Female,Cisgender Woman,37,38,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1094,FL_2015_SD,Female,Cisgender Woman,37,38,Years,1977,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1018,FL_2015_SD,Female,Cisgender Woman,37,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1142,FL_2015_SD,Female,Cisgender Woman,38,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1127,FL_2015_SD,Male,Cisgender Man,39,41,Years,1975,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1163,FL_2015_SD,Female,Cisgender Woman,40,40,Years,1975,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1186,FL_2015_SD,Female,Cisgender Woman,40,41,Years,1975,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1187,FL_2015_SD,Female,Cisgender Woman,40,41,Years,1975,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1192,FL_2015_SD,Female,Cisgender Woman,40,40,Years,1975,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1196,FL_2015_SD,Female,Cisgender Woman,41,41,Years,1974,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1197,FL_2015_SD,Female,Cisgender Woman,42,43,Years,1973,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1033,FL_2015_SD,Female,Cisgender Woman,42,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1104,FL_2015_SD,Male,Cisgender Man,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1162,FL_2015_SD,Female,Cisgender Woman,43,43,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1181,FL_2015_SD,Female,Cisgender Woman,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1189,FL_2015_SD,Female,Cisgender Woman,43,43,Years,1972,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1195,FL_2015_SD,Female,Cisgender Woman,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1031,FL_2015_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1095,FL_2015_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1123,FL_2015_SD,Female,Cisgender Woman,44,46,Years,1970,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1188,FL_2015_SD,Female,Cisgender Woman,45,46,Years,1970,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1043,FL_2015_SD,Male,Cisgender Man,45,47,Years,1969,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1010,FL_2015_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1081,FL_2015_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1113,FL_2015_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1021,FL_2015_SD,Female,Cisgender Woman,47,49,Years,1967,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1002,FL_2015_SD,Male,Cisgender Man,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1114,FL_2015_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1118,FL_2015_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1126,FL_2015_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1092,FL_2015_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1146,FL_2015_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1045,FL_2015_SD,Female,Cisgender Woman,51,53,Years,1963,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1067,FL_2015_SD,Male,Cisgender Man,51,53,Years,1963,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1156,FL_2015_SD,Female,Cisgender Woman,52,54,Years,1962,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1035,FL_2015_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1069,FL_2015_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1122,FL_2015_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1173,FL_2015_SD,Male,Cisgender Man,55,55,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1038,FL_2015_SD,Female,Cisgender Woman,56,58,Years,1958,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1076,FL_2015_SD,Female,Cisgender Woman,57,58,Years,1957,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1063,FL_2015_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1184,FL_2015_SD,Female,Cisgender Woman,60,61,Years,1955,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1029,FL_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1039,FL_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1052,FL_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1086,FL_2015_SD,Male,Cisgender Man,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1093,FL_2015_SD,Male,Cisgender Man,60,61,Years,1954,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1041,FL_2015_SD,Female,Cisgender Woman,61,62,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1058,FL_2015_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1115,FL_2015_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1048,FL_2015_SD,Female,Cisgender Woman,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1079,FL_2015_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1143,FL_2015_SD,Male,Cisgender Man,63,63,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1148,FL_2015_SD,Male,Cisgender Man,62,63,Years,1952,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1012,FL_2015_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1078,FL_2015_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1190,FL_2015_SD,Female,Cisgender Woman,64,65,Years,1951,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1026,FL_2015_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1120,FL_2015_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1129,FL_2015_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,1,1,Native Hawaiian or Other Pacific Islander,Not Provided
+TBD,fl_id_1116,FL_2015_SD,Female,Cisgender Woman,66,67,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1170,FL_2015_SD,Female,Cisgender Woman,67,67,Years,1948,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1077,FL_2015_SD,Female,Cisgender Woman,70,73,Years,1943,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1154,FL_2015_SD,Female,Cisgender Woman,72,74,Years,1941,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1050,FL_2015_SD,Male,Cisgender Man,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1112,FL_2015_SD,Female,Cisgender Woman,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1152,FL_2015_SD,Male,Cisgender Man,74,75,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1016,FL_2015_SD,Female,Cisgender Woman,74,77,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1132,FL_2015_SD,Female,Cisgender Woman,77,79,Years,1937,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1089,FL_2015_SD,Female,Cisgender Woman,79,82,Years,1934,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1226,FL_2016_SD,Female,Cisgender Woman,20,20,Years,1996,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1228,FL_2016_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1174,FL_2016_SD,Female,Cisgender Woman,21,22,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1179,FL_2016_SD,Female,Cisgender Woman,21,22,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1211,FL_2016_SD,Female,Cisgender Woman,22,22,Years,1994,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1212,FL_2016_SD,Male,Cisgender Man,22,22,Years,1994,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1213,FL_2016_SD,Male,Cisgender Man,24,24,Years,1992,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1011,FL_2016_SD,Female,Cisgender Woman,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1032,FL_2016_SD,Male,Cisgender Man,23,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1060,FL_2016_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1108,FL_2016_SD,Female,Cisgender Woman,24,26,Years,1990,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1070,FL_2016_SD,Female,Cisgender Woman,25,27,Years,1989,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1137,FL_2016_SD,Male,Cisgender Man,24,27,Years,1989,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1008,FL_2016_SD,Female,Cisgender Woman,25,28,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1071,FL_2016_SD,Female,Cisgender Woman,26,28,Years,1988,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1230,FL_2016_SD,Female,Cisgender Woman,28,28,Years,1988,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1019,FL_2016_SD,Female,Cisgender Woman,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1139,FL_2016_SD,Male,Cisgender Man,27,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1166,FL_2016_SD,Female,Cisgender Woman,28,29,Years,1987,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1090,FL_2016_SD,Female,Cisgender Woman,28,30,Years,1986,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1099,FL_2016_SD,Male,Cisgender Man,28,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1180,FL_2016_SD,Female,Cisgender Woman,29,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1207,FL_2016_SD,Female,Cisgender Woman,30,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1210,FL_2016_SD,Male,Cisgender Man,30,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1214,FL_2016_SD,Male,Cisgender Man,30,30,Years,1986,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1221,FL_2016_SD,Female,Cisgender Woman,30,30,Years,1986,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1232,FL_2016_SD,Female,Cisgender Woman,31,31,Years,1985,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1003,FL_2016_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1098,FL_2016_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,1,Asian,Not Provided
+TBD,fl_id_1155,FL_2016_SD,Female,Cisgender Woman,30,32,Years,1984,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1198,FL_2016_SD,Female,Cisgender Woman,32,32,Years,1984,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1222,FL_2016_SD,Female,Cisgender Woman,32,32,Years,1984,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1105,FL_2016_SD,Male,Cisgender Man,31,33,Years,1983,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1111,FL_2016_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1144,FL_2016_SD,Female,Cisgender Woman,31,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1149,FL_2016_SD,Female,Cisgender Woman,32,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1201,FL_2016_SD,Female,Cisgender Woman,33,33,Years,1983,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1168,FL_2016_SD,Female,Cisgender Woman,33,34,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1183,FL_2016_SD,Female,Cisgender Woman,33,34,Years,1982,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1080,FL_2016_SD,Female,Cisgender Woman,33,35,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1175,FL_2016_SD,Female,Cisgender Woman,34,35,Years,1981,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1025,FL_2016_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1074,FL_2016_SD,Female,Cisgender Woman,33,36,Years,1980,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1106,FL_2016_SD,Male,Cisgender Man,34,36,Years,1980,Age at enrollment,Not Collected,1,3,Not Specified,Not Provided
+TBD,fl_id_1110,FL_2016_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1121,FL_2016_SD,Male,Cisgender Man,35,37,Years,1979,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1138,FL_2016_SD,Female,Cisgender Woman,35,37,Years,1979,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1194,FL_2016_SD,Female,Cisgender Woman,37,38,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1203,FL_2016_SD,Female,Cisgender Woman,38,38,Years,1978,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1018,FL_2016_SD,Female,Cisgender Woman,37,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1142,FL_2016_SD,Female,Cisgender Woman,38,40,Years,1976,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1127,FL_2016_SD,Male,Cisgender Man,39,41,Years,1975,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1186,FL_2016_SD,Female,Cisgender Woman,40,41,Years,1975,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1187,FL_2016_SD,Female,Cisgender Woman,40,41,Years,1975,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1197,FL_2016_SD,Female,Cisgender Woman,42,43,Years,1973,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1204,FL_2016_SD,Male,Cisgender Man,43,43,Years,1973,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1033,FL_2016_SD,Female,Cisgender Woman,42,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1104,FL_2016_SD,Male,Cisgender Man,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1181,FL_2016_SD,Female,Cisgender Woman,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1195,FL_2016_SD,Female,Cisgender Woman,43,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1206,FL_2016_SD,Female,Cisgender Woman,44,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1216,FL_2016_SD,Female,Cisgender Woman,44,44,Years,1972,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1031,FL_2016_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1095,FL_2016_SD,Male,Cisgender Man,44,46,Years,1970,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1123,FL_2016_SD,Female,Cisgender Woman,44,46,Years,1970,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1188,FL_2016_SD,Female,Cisgender Woman,45,46,Years,1970,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1043,FL_2016_SD,Male,Cisgender Man,45,47,Years,1969,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1223,FL_2016_SD,Female,Cisgender Woman,47,47,Years,1969,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1010,FL_2016_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1081,FL_2016_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1113,FL_2016_SD,Female,Cisgender Woman,46,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1200,FL_2016_SD,Male,Cisgender Man,48,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1205,FL_2016_SD,Female,Cisgender Woman,48,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1217,FL_2016_SD,Male,Cisgender Man,48,48,Years,1968,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1021,FL_2016_SD,Female,Cisgender Woman,47,49,Years,1967,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1002,FL_2016_SD,Male,Cisgender Man,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1042,FL_2016_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1114,FL_2016_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1118,FL_2016_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,2,OTH-Hispanic/Latino,Not Provided
+TBD,fl_id_1126,FL_2016_SD,Female,Cisgender Woman,48,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1202,FL_2016_SD,Female,Cisgender Woman,50,50,Years,1966,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1092,FL_2016_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1146,FL_2016_SD,Female,Cisgender Woman,50,52,Years,1964,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1045,FL_2016_SD,Female,Cisgender Woman,51,53,Years,1963,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1067,FL_2016_SD,Male,Cisgender Man,51,53,Years,1963,Age at enrollment,Not Collected,1,1,Black or African American,Not Provided
+TBD,fl_id_1156,FL_2016_SD,Female,Cisgender Woman,52,54,Years,1962,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1035,FL_2016_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1069,FL_2016_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1122,FL_2016_SD,Female,Cisgender Woman,54,56,Years,1960,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1038,FL_2016_SD,Female,Cisgender Woman,56,58,Years,1958,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1224,FL_2016_SD,Male,Cisgender Man,59,59,Years,1957,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1063,FL_2016_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1231,FL_2016_SD,Female,Cisgender Woman,60,60,Years,1956,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1184,FL_2016_SD,Female,Cisgender Woman,60,61,Years,1955,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1233,FL_2016_SD,Female,Cisgender Woman,61,61,Years,1955,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1029,FL_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1039,FL_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1052,FL_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1086,FL_2016_SD,Male,Cisgender Man,60,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1236,FL_2016_SD,Female,Cisgender Woman,62,62,Years,1954,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1058,FL_2016_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1115,FL_2016_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1048,FL_2016_SD,Female,Cisgender Woman,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1079,FL_2016_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1088,FL_2016_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1012,FL_2016_SD,Female,Cisgender Woman,63,65,Years,1950,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1078,FL_2016_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1190,FL_2016_SD,Female,Cisgender Woman,64,65,Years,1951,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1129,FL_2016_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,1,1,Native Hawaiian or Other Pacific Islander,Not Provided
+TBD,fl_id_1208,FL_2016_SD,Female,Cisgender Woman,68,68,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1219,FL_2016_SD,Female,Cisgender Woman,68,68,Years,1948,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1077,FL_2016_SD,Female,Cisgender Woman,70,73,Years,1943,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1218,FL_2016_SD,Female,Cisgender Woman,73,73,Years,1943,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1237,FL_2016_SD,Female,Cisgender Woman,74,74,Years,1942,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1050,FL_2016_SD,Male,Cisgender Man,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1112,FL_2016_SD,Female,Cisgender Woman,73,76,Years,1940,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1016,FL_2016_SD,Female,Cisgender Woman,74,77,Years,1939,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1132,FL_2016_SD,Female,Cisgender Woman,77,79,Years,1937,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,fl_id_1089,FL_2016_SD,Female,Cisgender Woman,79,82,Years,1934,Age at enrollment,Not Collected,1,1,White,Not Provided
+TBD,pa_id_1132,PA_2014_SD,Male,Cisgender Man,52,54,Years,1962,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1112,PA_2014_SD,Female,Cisgender Woman,53,55,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1119,PA_2014_SD,Female,Cisgender Woman,52,53,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1220,PA_2014_SD,Male,Cisgender Man,53,53,Years,1961,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0151,PA_2014_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0218,PA_2014_SD,Female,Cisgender Woman,52,55,Years,1961,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0303,PA_2014_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0306,PA_2014_SD,Female,Cisgender Woman,53,56,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1115,PA_2014_SD,Female,Cisgender Woman,52,56,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1224,PA_2014_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0115,PA_2014_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0206,PA_2014_SD,Female,Cisgender Woman,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1217,PA_2014_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0121,PA_2014_SD,Female,Cisgender Woman,54,56,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0253,PA_2014_SD,Male,Cisgender Man,56,58,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0259,PA_2014_SD,Female,Cisgender Woman,54,58,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0312,PA_2014_SD,Female,Cisgender Woman,55,58,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0014,PA_2014_SD,Female,Cisgender Woman,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0037,PA_2014_SD,Female,Cisgender Woman,57,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0150,PA_2014_SD,Male,Cisgender Man,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0203,PA_2014_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0211,PA_2014_SD,Female,Cisgender Woman,56,57,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0301,PA_2014_SD,Female,Cisgender Woman,56,59,Years,1957,Age at enrollment,Not Collected,2,1,Asian,Not Provided
+TBD,pa_id_0332,PA_2014_SD,Male,Cisgender Man,55,57,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1016,PA_2014_SD,Female,Cisgender Woman,56,57,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1102,PA_2014_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1214,PA_2014_SD,Male,Cisgender Man,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0007,PA_2014_SD,Female,Cisgender Woman,55,60,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0112,PA_2014_SD,Female,Cisgender Woman,57,59,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0233,PA_2014_SD,Female,Cisgender Woman,57,58,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0236,PA_2014_SD,Male,Cisgender Man,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0258,PA_2014_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0318,PA_2014_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1123,PA_2014_SD,Male,Cisgender Man,58,60,Years,1956,Age at enrollment,Not Collected,2,2,OTH-Hispanic/Latino,Not Provided
+TBD,pa_id_1212,PA_2014_SD,Female,Cisgender Woman,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0104,PA_2014_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0118,PA_2014_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0155,PA_2014_SD,Male,Cisgender Man,59,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0271,PA_2014_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0326,PA_2014_SD,Female,Cisgender Woman,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0329,PA_2014_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1105,PA_2014_SD,Female,Cisgender Woman,59,60,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1210,PA_2014_SD,Female,Cisgender Woman,59,59,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0107,PA_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0108,PA_2014_SD,Female,Cisgender Woman,58,62,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0110,PA_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0158,PA_2014_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0320,PA_2014_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0031,PA_2014_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0102,PA_2014_SD,Female,Cisgender Woman,61,62,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1003,PA_2014_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1202,PA_2014_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1231,PA_2014_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0157,PA_2014_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0307,PA_2014_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1014,PA_2014_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1116,PA_2014_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0146,PA_2014_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1201,PA_2014_SD,Female,Cisgender Woman,63,64,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1236,PA_2014_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1240,PA_2014_SD,Female,Cisgender Woman,62,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0027,PA_2014_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0106,PA_2014_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0123,PA_2014_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,3,Not Specified,Not Provided
+TBD,pa_id_0148,PA_2014_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0327,PA_2014_SD,Female,Cisgender Woman,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1106,PA_2014_SD,Male,Cisgender Man,64,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1122,PA_2014_SD,Male,Cisgender Man,63,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1208,PA_2014_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0003,PA_2014_SD,Male,Cisgender Man,65,66,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0255,PA_2014_SD,Male,Cisgender Man,65,66,Years,1949,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1017,PA_2014_SD,Female,Cisgender Woman,63,66,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1018,PA_2014_SD,Female,Cisgender Woman,65,66,Years,1949,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0265,PA_2014_SD,Female,Cisgender Woman,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1125,PA_2014_SD,Female,Cisgender Woman,66,67,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3406,PA_2014_SD,Male,Cisgender Man,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1010,PA_2014_SD,Female,Cisgender Woman,67,68,Years,1947,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0152,PA_2014_SD,Male,Cisgender Man,69,70,Years,1945,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0316,PA_2014_SD,Female,Cisgender Woman,68,70,Years,1945,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1235,PA_2014_SD,Female,Cisgender Woman,68,69,Years,1945,Age at enrollment,Not Collected,2,3,Not Specified,Not Provided
+TBD,pa_id_0015,PA_2014_SD,Female,Cisgender Woman,70,71,Years,1946,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1009,PA_2014_SD,Male,Cisgender Man,71,72,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0019,PA_2014_SD,Female,Cisgender Woman,72,73,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1223,PA_2014_SD,Female,Cisgender Woman,70,74,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0117,PA_2014_SD,Female,Cisgender Woman,75,76,Years,1939,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1103,PA_2014_SD,Female,Cisgender Woman,75,76,Years,1939,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0156,PA_2014_SD,Male,Cisgender Man,78,79,Years,1936,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0302,PA_2014_SD,Male,Cisgender Man,81,84,Years,1932,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1132,PA_2015_SD,Male,Cisgender Man,52,54,Years,1962,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1112,PA_2015_SD,Female,Cisgender Woman,53,55,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0151,PA_2015_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0218,PA_2015_SD,Female,Cisgender Woman,52,55,Years,1961,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0303,PA_2015_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0306,PA_2015_SD,Female,Cisgender Woman,53,56,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1115,PA_2015_SD,Female,Cisgender Woman,52,56,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1224,PA_2015_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0115,PA_2015_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0206,PA_2015_SD,Female,Cisgender Woman,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1217,PA_2015_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0253,PA_2015_SD,Male,Cisgender Man,56,58,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0259,PA_2015_SD,Female,Cisgender Woman,54,58,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0312,PA_2015_SD,Female,Cisgender Woman,55,58,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0014,PA_2015_SD,Female,Cisgender Woman,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0037,PA_2015_SD,Female,Cisgender Woman,57,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0150,PA_2015_SD,Male,Cisgender Man,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0203,PA_2015_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0301,PA_2015_SD,Female,Cisgender Woman,56,59,Years,1957,Age at enrollment,Not Collected,2,1,Asian,Not Provided
+TBD,pa_id_1102,PA_2015_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1214,PA_2015_SD,Male,Cisgender Man,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0007,PA_2015_SD,Female,Cisgender Woman,55,60,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0112,PA_2015_SD,Female,Cisgender Woman,57,59,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0236,PA_2015_SD,Male,Cisgender Man,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0258,PA_2015_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0318,PA_2015_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1123,PA_2015_SD,Male,Cisgender Man,58,60,Years,1956,Age at enrollment,Not Collected,2,2,OTH-Hispanic/Latino,Not Provided
+TBD,pa_id_1212,PA_2015_SD,Female,Cisgender Woman,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0104,PA_2015_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0118,PA_2015_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0271,PA_2015_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0326,PA_2015_SD,Female,Cisgender Woman,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0329,PA_2015_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1105,PA_2015_SD,Female,Cisgender Woman,59,60,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0107,PA_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0108,PA_2015_SD,Female,Cisgender Woman,58,62,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0110,PA_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0158,PA_2015_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0320,PA_2015_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0031,PA_2015_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0102,PA_2015_SD,Female,Cisgender Woman,61,62,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1003,PA_2015_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1202,PA_2015_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1231,PA_2015_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0157,PA_2015_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1006,PA_2015_SD,Female,Cisgender Woman,63,64,Years,1952,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1014,PA_2015_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1116,PA_2015_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1207,PA_2015_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0146,PA_2015_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1135,PA_2015_SD,Female,Cisgender Woman,62,64,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1201,PA_2015_SD,Female,Cisgender Woman,63,64,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1236,PA_2015_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1240,PA_2015_SD,Female,Cisgender Woman,62,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0027,PA_2015_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0106,PA_2015_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0123,PA_2015_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,3,Not Specified,Not Provided
+TBD,pa_id_0148,PA_2015_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0327,PA_2015_SD,Female,Cisgender Woman,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1106,PA_2015_SD,Male,Cisgender Man,64,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1122,PA_2015_SD,Male,Cisgender Man,63,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1208,PA_2015_SD,Female,Cisgender Woman,64,65,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0003,PA_2015_SD,Male,Cisgender Man,65,66,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0147,PA_2015_SD,Male,Cisgender Man,66,66,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0255,PA_2015_SD,Male,Cisgender Man,65,66,Years,1949,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1017,PA_2015_SD,Female,Cisgender Woman,63,66,Years,1950,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1018,PA_2015_SD,Female,Cisgender Woman,65,66,Years,1949,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0265,PA_2015_SD,Female,Cisgender Woman,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1125,PA_2015_SD,Female,Cisgender Woman,66,67,Years,1949,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3406,PA_2015_SD,Male,Cisgender Man,65,67,Years,1948,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1010,PA_2015_SD,Female,Cisgender Woman,67,68,Years,1947,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0152,PA_2015_SD,Male,Cisgender Man,69,70,Years,1945,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0316,PA_2015_SD,Female,Cisgender Woman,68,70,Years,1945,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0015,PA_2015_SD,Female,Cisgender Woman,70,71,Years,1946,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1009,PA_2015_SD,Male,Cisgender Man,71,72,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0019,PA_2015_SD,Female,Cisgender Woman,72,73,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1223,PA_2015_SD,Female,Cisgender Woman,70,74,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0117,PA_2015_SD,Female,Cisgender Woman,75,76,Years,1939,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1103,PA_2015_SD,Female,Cisgender Woman,75,76,Years,1939,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0156,PA_2015_SD,Male,Cisgender Man,78,79,Years,1936,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0302,PA_2015_SD,Male,Cisgender Man,81,84,Years,1932,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1132,PA_2016_SD,Male,Cisgender Man,52,54,Years,1962,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1112,PA_2016_SD,Female,Cisgender Woman,53,55,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3414,PA_2016_SD,Male,Cisgender Man,55,55,Years,1961,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0151,PA_2016_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0303,PA_2016_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0306,PA_2016_SD,Female,Cisgender Woman,53,56,Years,1960,Age at enrollment,Not Collected,2,1,"OTH-AIAN, Black, White",Not Provided
+TBD,pa_id_1115,PA_2016_SD,Female,Cisgender Woman,52,56,Years,1961,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1224,PA_2016_SD,Male,Cisgender Man,53,56,Years,1960,Age at enrollment,Not Collected,2,1,"OTH-AIAN, Black",Not Provided
+TBD,pa_id_3408,PA_2016_SD,Female,Cisgender Woman,56,56,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3423,PA_2016_SD,Male,Cisgender Man,56,56,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0115,PA_2016_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0206,PA_2016_SD,Female,Cisgender Woman,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1217,PA_2016_SD,Male,Cisgender Man,53,57,Years,1960,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_3409,PA_2016_SD,Male,Cisgender Man,57,57,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3422,PA_2016_SD,Male,Cisgender Man,57,57,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0253,PA_2016_SD,Male,Cisgender Man,56,58,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0259,PA_2016_SD,Female,Cisgender Woman,54,58,Years,1959,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0312,PA_2016_SD,Female,Cisgender Woman,55,58,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3411,PA_2016_SD,Female,Cisgender Woman,58,58,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_3420,PA_2016_SD,Female,Cisgender Woman,58,58,Years,1958,Age at enrollment,Not Collected,2,1,American Indian or Alaska Native,Not Provided
+TBD,pa_id_0014,PA_2016_SD,Female,Cisgender Woman,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0037,PA_2016_SD,Female,Cisgender Woman,57,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0150,PA_2016_SD,Male,Cisgender Man,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0203,PA_2016_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0301,PA_2016_SD,Female,Cisgender Woman,56,59,Years,1957,Age at enrollment,Not Collected,2,1,Asian,Not Provided
+TBD,pa_id_1102,PA_2016_SD,Female,Cisgender Woman,55,59,Years,1958,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1214,PA_2016_SD,Male,Cisgender Man,57,59,Years,1957,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0007,PA_2016_SD,Female,Cisgender Woman,55,60,Years,1958,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0236,PA_2016_SD,Male,Cisgender Man,57,60,Years,1956,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0258,PA_2016_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0318,PA_2016_SD,Female,Cisgender Woman,58,60,Years,1956,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1123,PA_2016_SD,Male,Cisgender Man,58,60,Years,1956,Age at enrollment,Not Collected,2,2,OTH-Hispanic/Latino,Not Provided
+TBD,pa_id_1212,PA_2016_SD,Female,Cisgender Woman,57,60,Years,1956,Age at enrollment,Not Collected,2,1,"OTH-AIAN, Black",Not Provided
+TBD,pa_id_0104,PA_2016_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0118,PA_2016_SD,Female,Cisgender Woman,59,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0155,PA_2016_SD,Male,Cisgender Man,59,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0271,PA_2016_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0326,PA_2016_SD,Female,Cisgender Woman,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0329,PA_2016_SD,Male,Cisgender Man,58,61,Years,1955,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0107,PA_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0108,PA_2016_SD,Female,Cisgender Woman,58,62,Years,1955,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0110,PA_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0158,PA_2016_SD,Female,Cisgender Woman,60,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0320,PA_2016_SD,Female,Cisgender Woman,59,62,Years,1954,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1218,PA_2016_SD,Female,Cisgender Woman,62,62,Years,1954,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0031,PA_2016_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1003,PA_2016_SD,Female,Cisgender Woman,60,63,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1202,PA_2016_SD,Female,Cisgender Woman,61,63,Years,1953,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3416,PA_2016_SD,Male,Cisgender Man,63,63,Years,1953,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0157,PA_2016_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0307,PA_2016_SD,Male,Cisgender Man,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1006,PA_2016_SD,Female,Cisgender Woman,63,64,Years,1952,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1014,PA_2016_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1116,PA_2016_SD,Female,Cisgender Woman,62,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1207,PA_2016_SD,Male,Cisgender Man,61,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3417,PA_2016_SD,Male,Cisgender Man,64,64,Years,1952,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0146,PA_2016_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_1236,PA_2016_SD,Female,Cisgender Woman,63,65,Years,1951,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1240,PA_2016_SD,Female,Cisgender Woman,62,65,Years,1951,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_3413,PA_2016_SD,Female,Cisgender Woman,65,65,Years,1951,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_0148,PA_2016_SD,Male,Cisgender Man,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0327,PA_2016_SD,Female,Cisgender Woman,64,66,Years,1950,Age at enrollment,Not Collected,2,1,White,Not Provided
+TBD,pa_id_0103,PA_2016_SD,Female,Cisgender Woman,71,71,Years,1945,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,pa_id_1223,PA_2016_SD,Female,Cisgender Woman,70,74,Years,1943,Age at enrollment,Not Collected,2,1,Black or African American,Not Provided
+TBD,uga_id_0001,UGA_2016_SD,Female,Cisgender Woman,29,29,Years,1987,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0002,UGA_2016_SD,Female,Cisgender Woman,29,29,Years,1987,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0003,UGA_2016_SD,Female,Cisgender Woman,28,28,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0004,UGA_2016_SD,Male,Cisgender Man,27,27,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0005,UGA_2016_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0006,UGA_2016_SD,Female,Cisgender Woman,36,36,Years,1981,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0007,UGA_2016_SD,Male,Cisgender Man,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0008,UGA_2016_SD,Female,Cisgender Woman,46,47,Years,1970,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0009,UGA_2016_SD,Male,Cisgender Man,61,61,Years,1955,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0010,UGA_2016_SD,Male,Cisgender Man,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0011,UGA_2016_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0012,UGA_2016_SD,Male,Cisgender Man,24,24,Years,1992,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0013,UGA_2016_SD,Male,Cisgender Man,36,36,Years,1980,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0014,UGA_2016_SD,Female,Cisgender Woman,62,62,Years,1955,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0015,UGA_2016_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0016,UGA_2016_SD,Female,Cisgender Woman,38,39,Years,1978,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0017,UGA_2016_SD,Male,Cisgender Man,51,52,Years,1965,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0018,UGA_2016_SD,Female,Cisgender Woman,31,31,Years,1985,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0019,UGA_2016_SD,Female,Cisgender Woman,32,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0020,UGA_2016_SD,Male,Cisgender Man,33,34,Years,1983,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0021,UGA_2016_SD,Female,Cisgender Woman,38,38,Years,1978,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0022,UGA_2016_SD,Male,Cisgender Man,39,40,Years,1977,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0023,UGA_2016_SD,Male,Cisgender Man,27,27,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0024,UGA_2016_SD,Male,Cisgender Man,26,26,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0025,UGA_2016_SD,Male,Cisgender Man,22,22,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0026,UGA_2016_SD,Female,Cisgender Woman,20,20,Years,1996,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0028,UGA_2016_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,OTH-White/Asian,Not Provided
+TBD,uga_id_0029,UGA_2016_SD,Female,Cisgender Woman,24,24,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0030,UGA_2016_SD,Male,Cisgender Man,30,30,Years,1987,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0031,UGA_2016_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0032,UGA_2016_SD,Female,Cisgender Woman,27,28,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0033,UGA_2016_SD,Male,Cisgender Man,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0034,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0035,UGA_2016_SD,Female,Cisgender Woman,28,28,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0036,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0037,UGA_2016_SD,Female,Cisgender Woman,57,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0038,UGA_2016_SD,Male,Cisgender Man,43,44,Years,1973,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0039,UGA_2016_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0040,UGA_2016_SD,Female,Cisgender Woman,28,28,Years,1988,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0041,UGA_2016_SD,Female,Cisgender Woman,26,26,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0042,UGA_2016_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0044,UGA_2016_SD,Male,Cisgender Man,24,24,Years,1992,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0045,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0046,UGA_2016_SD,Male,Cisgender Man,29,30,Years,1987,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0047,UGA_2016_SD,Female,Cisgender Woman,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0048,UGA_2016_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0049,UGA_2016_SD,Female,Cisgender Woman,20,21,Years,1996,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0050,UGA_2016_SD,Male,Cisgender Man,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0051,UGA_2016_SD,Male,Cisgender Man,45,46,Years,1971,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0052,UGA_2016_SD,Female,Cisgender Woman,23,23,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0053,UGA_2016_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0054,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0055,UGA_2016_SD,Male,Cisgender Man,50,51,Years,1966,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0056,UGA_2016_SD,Female,Cisgender Woman,49,50,Years,1967,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0057,UGA_2016_SD,Female,Cisgender Woman,24,25,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0058,UGA_2016_SD,Female,Cisgender Woman,56,57,Years,1960,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0059,UGA_2016_SD,Female,Cisgender Woman,37,37,Years,1979,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0060,UGA_2016_SD,Female,Cisgender Woman,36,37,Years,1980,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0061,UGA_2016_SD,Male,Cisgender Man,41,41,Years,1975,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0062,UGA_2016_SD,Female,Cisgender Woman,48,49,Years,1968,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0063,UGA_2016_SD,Male,Cisgender Man,22,22,Years,1994,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0064,UGA_2016_SD,Female,Cisgender Woman,55,56,Years,1961,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0065,UGA_2016_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0066,UGA_2016_SD,Male,Cisgender Man,42,43,Years,1974,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0067,UGA_2016_SD,Female,Cisgender Woman,33,33,Years,1983,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0068,UGA_2016_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0069,UGA_2016_SD,Male,Cisgender Man,25,26,Years,1991,Age at enrollment,Not Collected,GA,2,White,Not Provided
+TBD,uga_id_0070,UGA_2016_SD,Male,Cisgender Man,53,54,Years,1963,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0071,UGA_2016_SD,Female,Cisgender Woman,20,20,Years,1996,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0072,UGA_2016_SD,Female,Cisgender Woman,24,25,Years,1992,Age at enrollment,Not Collected,GA,2,White,Not Provided
+TBD,uga_id_0073,UGA_2016_SD,Female,Cisgender Woman,28,28,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0074,UGA_2016_SD,Male,Cisgender Man,27,28,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0075,UGA_2016_SD,Female,Cisgender Woman,23,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0076,UGA_2016_SD,Female,Cisgender Woman,19,19,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0077,UGA_2016_SD,Female,Cisgender Woman,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0078,UGA_2016_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0079,UGA_2016_SD,Male,Cisgender Man,60,60,Years,1956,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0080,UGA_2016_SD,Female,Cisgender Woman,22,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0081,UGA_2016_SD,Female,Cisgender Woman,47,47,Years,1970,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0082,UGA_2016_SD,Female,Cisgender Woman,20,20,Years,1996,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0083,UGA_2016_SD,Female,Cisgender Woman,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0084,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0085,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0086,UGA_2016_SD,Male,Cisgender Man,58,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0087,UGA_2016_SD,Male,Cisgender Man,20,21,Years,1996,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0088,UGA_2016_SD,Female,Cisgender Woman,24,24,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0089,UGA_2016_SD,Male,Cisgender Man,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0090,UGA_2016_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0091,UGA_2016_SD,Male,Cisgender Man,72,73,Years,1944,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0092,UGA_2016_SD,Male,Cisgender Man,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0093,UGA_2016_SD,Male,Cisgender Man,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0094,UGA_2016_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0095,UGA_2016_SD,Male,Cisgender Man,28,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0096,UGA_2016_SD,Male,Cisgender Man,67,67,Years,1949,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0097,UGA_2016_SD,Female,Cisgender Woman,19,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0098,UGA_2016_SD,Male,Cisgender Man,55,55,Years,1961,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0099,UGA_2016_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0100,UGA_2016_SD,Female,Cisgender Woman,47,47,Years,1970,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0101,UGA_2016_SD,Male,Cisgender Man,30,31,Years,1986,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0102,UGA_2016_SD,Male,Cisgender Man,47,47,Years,1969,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0103,UGA_2016_SD,Female,Cisgender Woman,20,20,Years,1997,Age at enrollment,Not Collected,GA,1,OTH-White/African American,Not Provided
+TBD,uga_id_0104,UGA_2016_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0105,UGA_2016_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0106,UGA_2016_SD,Female,Cisgender Woman,20,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0107,UGA_2016_SD,Female,Cisgender Woman,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0108,UGA_2016_SD,Male,Cisgender Man,54,54,Years,1963,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0109,UGA_2016_SD,Female,Cisgender Woman,33,33,Years,1983,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0110,UGA_2016_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0111,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0112,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0113,UGA_2016_SD,Female,Cisgender Woman,50,50,Years,1966,Age at enrollment,Not Collected,GA,1,OTH-White/ American Indian,Not Provided
+TBD,uga_id_0114,UGA_2016_SD,Male,Cisgender Man,21,21,Years,1995,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0115,UGA_2016_SD,Male,Cisgender Man,29,29,Years,1987,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0116,UGA_2016_SD,Male,Cisgender Man,34,34,Years,1982,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0117,UGA_2016_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0118,UGA_2016_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0119,UGA_2016_SD,Male,Cisgender Man,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0120,UGA_2016_SD,Male,Cisgender Man,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0122,UGA_2016_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0123,UGA_2016_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0124,UGA_2016_SD,Male,Cisgender Man,74,74,Years,1942,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0126,UGA_2016_SD,Male,Cisgender Man,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0127,UGA_2016_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0128,UGA_2016_SD,Female,Cisgender Woman,35,36,Years,1981,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0129,UGA_2016_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0130,UGA_2016_SD,Male,Cisgender Man,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0131,UGA_2016_SD,Female,Cisgender Woman,62,62,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0132,UGA_2016_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0133,UGA_2016_SD,Female,Cisgender Woman,36,37,Years,1980,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0134,UGA_2016_SD,Female,Cisgender Woman,70,70,Years,1947,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0135,UGA_2016_SD,Male,Cisgender Man,68,68,Years,1948,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0136,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0137,UGA_2016_SD,Male,Cisgender Man,28,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0138,UGA_2016_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0139,UGA_2016_SD,Female,Cisgender Woman,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0140,UGA_2016_SD,Male,Cisgender Man,63,64,Years,1953,Age at enrollment,Not Collected,GA,2,White,Not Provided
+TBD,uga_id_0142,UGA_2016_SD,Male,Cisgender Man,27,28,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0143,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0144,UGA_2016_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0145,UGA_2016_SD,Male,Cisgender Man,67,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0146,UGA_2016_SD,Male,Cisgender Man,68,68,Years,1948,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0148,UGA_2016_SD,Male,Cisgender Man,68,69,Years,1948,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0149,UGA_2016_SD,Male,Cisgender Man,65,66,Years,1951,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0150,UGA_2016_SD,Male,Cisgender Man,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0151,UGA_2016_SD,Female,Cisgender Woman,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0005,UGA_2017_SD,Female,Cisgender Woman,25,25,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0007,UGA_2017_SD,Male,Cisgender Man,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0008,UGA_2017_SD,Female,Cisgender Woman,46,47,Years,1970,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0010,UGA_2017_SD,Male,Cisgender Man,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0011,UGA_2017_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0013,UGA_2017_SD,Male,Cisgender Man,36,36,Years,1980,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0014,UGA_2017_SD,Female,Cisgender Woman,62,62,Years,1955,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0015,UGA_2017_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0016,UGA_2017_SD,Female,Cisgender Woman,38,39,Years,1978,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0017,UGA_2017_SD,Male,Cisgender Man,51,52,Years,1965,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0018,UGA_2017_SD,Female,Cisgender Woman,31,31,Years,1985,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0019,UGA_2017_SD,Female,Cisgender Woman,32,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0020,UGA_2017_SD,Male,Cisgender Man,33,34,Years,1983,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0022,UGA_2017_SD,Male,Cisgender Man,39,40,Years,1977,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0029,UGA_2017_SD,Female,Cisgender Woman,24,24,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0030,UGA_2017_SD,Male,Cisgender Man,30,30,Years,1987,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0031,UGA_2017_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0032,UGA_2017_SD,Female,Cisgender Woman,27,28,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0033,UGA_2017_SD,Male,Cisgender Man,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0034,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0036,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0037,UGA_2017_SD,Female,Cisgender Woman,57,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0038,UGA_2017_SD,Male,Cisgender Man,43,44,Years,1973,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0039,UGA_2017_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0042,UGA_2017_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0045,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,2,Black or African American,Not Provided
+TBD,uga_id_0046,UGA_2017_SD,Male,Cisgender Man,29,30,Years,1987,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0047,UGA_2017_SD,Female,Cisgender Woman,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0048,UGA_2017_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0049,UGA_2017_SD,Female,Cisgender Woman,20,21,Years,1996,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0050,UGA_2017_SD,Male,Cisgender Man,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0051,UGA_2017_SD,Male,Cisgender Man,45,46,Years,1971,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0052,UGA_2017_SD,Female,Cisgender Woman,23,23,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0053,UGA_2017_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0054,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0055,UGA_2017_SD,Male,Cisgender Man,50,51,Years,1966,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0056,UGA_2017_SD,Female,Cisgender Woman,49,50,Years,1967,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0057,UGA_2017_SD,Female,Cisgender Woman,24,25,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0058,UGA_2017_SD,Female,Cisgender Woman,56,57,Years,1960,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0060,UGA_2017_SD,Female,Cisgender Woman,36,37,Years,1980,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0062,UGA_2017_SD,Female,Cisgender Woman,48,49,Years,1968,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0064,UGA_2017_SD,Female,Cisgender Woman,55,56,Years,1961,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0065,UGA_2017_SD,Female,Cisgender Woman,23,24,Years,1993,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0066,UGA_2017_SD,Male,Cisgender Man,42,43,Years,1974,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0068,UGA_2017_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0069,UGA_2017_SD,Male,Cisgender Man,25,26,Years,1991,Age at enrollment,Not Collected,GA,2,White,Not Provided
+TBD,uga_id_0070,UGA_2017_SD,Male,Cisgender Man,53,54,Years,1963,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0072,UGA_2017_SD,Female,Cisgender Woman,24,25,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0074,UGA_2017_SD,Male,Cisgender Man,27,28,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0075,UGA_2017_SD,Female,Cisgender Woman,23,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0076,UGA_2017_SD,Female,Cisgender Woman,19,19,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0077,UGA_2017_SD,Female,Cisgender Woman,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0078,UGA_2017_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0081,UGA_2017_SD,Female,Cisgender Woman,47,47,Years,1970,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0083,UGA_2017_SD,Female,Cisgender Woman,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0084,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0085,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0086,UGA_2017_SD,Male,Cisgender Man,58,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0087,UGA_2017_SD,Male,Cisgender Man,20,21,Years,1996,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0089,UGA_2017_SD,Male,Cisgender Man,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0090,UGA_2017_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0091,UGA_2017_SD,Male,Cisgender Man,72,73,Years,1944,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0095,UGA_2017_SD,Male,Cisgender Man,28,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0097,UGA_2017_SD,Female,Cisgender Woman,19,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0099,UGA_2017_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0100,UGA_2017_SD,Female,Cisgender Woman,47,47,Years,1970,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0101,UGA_2017_SD,Male,Cisgender Man,30,31,Years,1986,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0104,UGA_2017_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0105,UGA_2017_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0106,UGA_2017_SD,Female,Cisgender Woman,20,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0107,UGA_2017_SD,Female,Cisgender Woman,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0110,UGA_2017_SD,Female,Cisgender Woman,25,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0111,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0112,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0118,UGA_2017_SD,Female,Cisgender Woman,22,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0119,UGA_2017_SD,Male,Cisgender Man,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0120,UGA_2017_SD,Male,Cisgender Man,19,20,Years,1997,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0123,UGA_2017_SD,Female,Cisgender Woman,21,21,Years,1995,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0124,UGA_2017_SD,Male,Cisgender Man,74,74,Years,1942,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0126,UGA_2017_SD,Male,Cisgender Man,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0128,UGA_2017_SD,Female,Cisgender Woman,35,36,Years,1981,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0130,UGA_2017_SD,Male,Cisgender Man,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0132,UGA_2017_SD,Female,Cisgender Woman,18,19,Years,1998,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0133,UGA_2017_SD,Female,Cisgender Woman,36,37,Years,1980,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0134,UGA_2017_SD,Female,Cisgender Woman,70,70,Years,1947,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0136,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0137,UGA_2017_SD,Male,Cisgender Man,28,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0138,UGA_2017_SD,Female,Cisgender Woman,21,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0139,UGA_2017_SD,Female,Cisgender Woman,62,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0140,UGA_2017_SD,Male,Cisgender Man,63,64,Years,1953,Age at enrollment,Not Collected,GA,2,White,Not Provided
+TBD,uga_id_0142,UGA_2017_SD,Male,Cisgender Man,27,28,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0143,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0144,UGA_2017_SD,Female,Cisgender Woman,26,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0147,UGA_2017_SD,Male,Cisgender Man,67,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0148,UGA_2017_SD,Male,Cisgender Man,68,69,Years,1948,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0149,UGA_2017_SD,Male,Cisgender Man,65,66,Years,1951,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0150,UGA_2017_SD,Male,Cisgender Man,64,65,Years,1952,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0151,UGA_2017_SD,Female,Cisgender Woman,66,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0152,UGA_2017_SD,Female,Cisgender Woman,29,29,Years,1988,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0154,UGA_2017_SD,Male,Cisgender Man,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0155,UGA_2017_SD,Male,Cisgender Man,36,36,Years,1981,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0156,UGA_2017_SD,Male,Cisgender Man,37,37,Years,1980,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0157,UGA_2017_SD,Male,Cisgender Man,60,60,Years,1956,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0158,UGA_2017_SD,Male,Cisgender Man,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0160,UGA_2017_SD,Female,Cisgender Woman,68,68,Years,1948,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0161,UGA_2017_SD,Male,Cisgender Man,25,25,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0162,UGA_2017_SD,Female,Cisgender Woman,73,73,Years,1943,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0163,UGA_2017_SD,Male,Cisgender Man,51,51,Years,1966,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0165,UGA_2017_SD,Female,Cisgender Woman,39,39,Years,1978,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0166,UGA_2017_SD,Male,Cisgender Man,54,54,Years,1963,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0168,UGA_2017_SD,Male,Cisgender Man,83,83,Years,1934,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0173,UGA_2017_SD,Female,Cisgender Woman,64,64,Years,1953,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0174,UGA_2017_SD,Female,Cisgender Woman,40,40,Years,1977,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0175,UGA_2017_SD,Male,Cisgender Man,53,53,Years,1964,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0178,UGA_2017_SD,Female,Cisgender Woman,67,67,Years,1950,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0179,UGA_2017_SD,Female,Cisgender Woman,63,63,Years,1954,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0181,UGA_2017_SD,Female,Cisgender Woman,45,45,Years,1972,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0184,UGA_2017_SD,Male,Cisgender Man,66,66,Years,1951,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0185,UGA_2017_SD,Female,Cisgender Woman,67,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0186,UGA_2017_SD,Male,Cisgender Man,67,67,Years,1950,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0188,UGA_2017_SD,Female,Cisgender Woman,68,68,Years,1949,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0190,UGA_2017_SD,Male,Cisgender Man,58,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0191,UGA_2017_SD,Female,Cisgender Woman,22,22,Years,1994,Age at enrollment,Not Collected,GA,1,Native Hawaiian or Other Pacific Islander,Not Provided
+TBD,uga_id_0194,UGA_2017_SD,Male,Cisgender Man,29,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0195,UGA_2017_SD,Male,Cisgender Man,24,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0196,UGA_2017_SD,Male,Cisgender Man,65,65,Years,1952,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0197,UGA_2017_SD,Male,Cisgender Man,40,40,Years,1977,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0199,UGA_2017_SD,Female,Cisgender Woman,27,27,Years,1990,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0201,UGA_2017_SD,Female,Cisgender Woman,73,73,Years,1944,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0203,UGA_2017_SD,Male,Cisgender Man,62,62,Years,1955,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0204,UGA_2017_SD,Male,Cisgender Man,28,28,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0205,UGA_2017_SD,Female,Cisgender Woman,62,62,Years,1955,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0206,UGA_2017_SD,Female,Cisgender Woman,21,21,Years,1996,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0207,UGA_2017_SD,Male,Cisgender Man,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0208,UGA_2017_SD,Male,Cisgender Man,58,58,Years,1959,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0210,UGA_2017_SD,Female,Cisgender Woman,31,31,Years,1986,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0211,UGA_2017_SD,Male,Cisgender Man,23,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0212,UGA_2017_SD,Male,Cisgender Man,46,46,Years,1971,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0213,UGA_2017_SD,Male,Cisgender Man,32,32,Years,1985,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0214,UGA_2017_SD,Female,Cisgender Woman,59,59,Years,1958,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0215,UGA_2017_SD,Female,Cisgender Woman,36,36,Years,1981,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0216,UGA_2017_SD,Male,Cisgender Man,37,37,Years,1980,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0217,UGA_2017_SD,Female,Cisgender Woman,51,51,Years,1966,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0218,UGA_2017_SD,Male,Cisgender Man,26,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0219,UGA_2017_SD,Male,Cisgender Man,38,38,Years,1979,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0220,UGA_2017_SD,Female,Cisgender Woman,42,42,Years,1975,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0221,UGA_2017_SD,Female,Cisgender Woman,26,26,Years,1991,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0222,UGA_2017_SD,Male,Cisgender Man,29,29,Years,1988,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0223,UGA_2017_SD,Male,Cisgender Man,46,46,Years,1971,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0224,UGA_2017_SD,Female,Cisgender Woman,59,59,Years,1958,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0225,UGA_2017_SD,Male,Cisgender Man,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0226,UGA_2017_SD,Male,Cisgender Man,23,23,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0228,UGA_2017_SD,Male,Cisgender Man,24,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0229,UGA_2017_SD,Male,Cisgender Man,22,22,Years,1995,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_0230,UGA_2017_SD,Female,Cisgender Woman,62,62,Years,1955,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0231,UGA_2017_SD,Female,Cisgender Woman,22,22,Years,1995,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0232,UGA_2017_SD,Female,Cisgender Woman,25,25,Years,1992,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0233,UGA_2017_SD,Male,Cisgender Man,32,32,Years,1985,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0234,UGA_2017_SD,Female,Cisgender Woman,23,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0235,UGA_2017_SD,Male,Cisgender Man,28,28,Years,1989,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0236,UGA_2017_SD,Male,Cisgender Man,45,45,Years,1972,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0237,UGA_2017_SD,Male,Cisgender Man,23,23,Years,1994,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0238,UGA_2017_SD,Female,Cisgender Woman,18,18,Years,1999,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0239,UGA_2017_SD,Female,Cisgender Woman,24,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0241,UGA_2017_SD,Male,Cisgender Man,38,38,Years,1979,Age at enrollment,Not Collected,GA,1,OTH-American Indian/White/Black,Not Provided
+TBD,uga_id_0243,UGA_2017_SD,Female,Cisgender Woman,24,24,Years,1993,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0244,UGA_2017_SD,Female,Cisgender Woman,31,31,Years,1986,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0245,UGA_2017_SD,Female,Cisgender Woman,18,18,Years,1999,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0246,UGA_2017_SD,Female,Cisgender Woman,47,47,Years,1971,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0247,UGA_2017_SD,Male,Cisgender Man,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0248,UGA_2017_SD,Female,Cisgender Woman,61,61,Years,1956,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0249,UGA_2017_SD,Female,Cisgender Woman,40,40,Years,1977,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0250,UGA_2017_SD,Female,Cisgender Woman,33,33,Years,1984,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0251,UGA_2017_SD,Female,Cisgender Woman,44,44,Years,1974,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0252,UGA_2017_SD,Male,Cisgender Man,25,25,Years,1992,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_0253,UGA_2017_SD,Male,Cisgender Man,24,24,Years,1993,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0254,UGA_2017_SD,Male,Cisgender Man,45,45,Years,1972,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0255,UGA_2017_SD,Male,Cisgender Man,48,48,Years,1969,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0256,UGA_2017_SD,Male,Cisgender Man,41,41,Years,1976,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0257,UGA_2017_SD,Male,Cisgender Man,56,56,Years,1962,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0260,UGA_2017_SD,Female,Cisgender Woman,40,40,Years,1977,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0261,UGA_2017_SD,Male,Cisgender Man,54,54,Years,1964,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_0262,UGA_2017_SD,Female,Cisgender Woman,31,31,Years,1986,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c001,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c004,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c005,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c006,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c007,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c008,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c009,UGA_2017_SD,Female,Cisgender Woman,12,12,Years,2005,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c010,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c011,UGA_2017_SD,Male,Cisgender Man,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c012,UGA_2017_SD,Female,Cisgender Woman,17,17,Years,1999,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c013,UGA_2017_SD,Female,Cisgender Woman,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c014,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c015,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c016,UGA_2017_SD,Female,Cisgender Woman,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c017,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c018,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_c020,UGA_2017_SD,Female,Cisgender Woman,12,12,Years,2005,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c021,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_0265,UGA_2017_SD,Female,Cisgender Woman,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c023,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c024,UGA_2017_SD,Female,Cisgender Woman,16,16,Years,2001,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_c026,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,Asian,Not Provided
+TBD,uga_id_c027,UGA_2017_SD,Male,Cisgender Man,12,12,Years,2005,Age at enrollment,Not Collected,GA,1,American Indian or Alaska Native,Not Provided
+TBD,uga_id_c028,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c029,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c030,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c031,UGA_2017_SD,Female,Cisgender Woman,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c032,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c033,UGA_2017_SD,Female,Cisgender Woman,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c034,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c035,UGA_2017_SD,Male,Cisgender Man,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c036,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c037,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_c038,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_c039,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,OTH-Black/White,Not Provided
+TBD,uga_id_c040,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c041,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c042,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c043,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c044,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c045,UGA_2017_SD,Male,Cisgender Man,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c046,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c048,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c049,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c050,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c051,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c052,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c053,UGA_2017_SD,Male,Cisgender Man,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_c054,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c055,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c056,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c057,UGA_2017_SD,Male,Cisgender Man,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c058,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c059,UGA_2017_SD,Male,Cisgender Man,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c060,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c061,UGA_2017_SD,Male,Cisgender Man,12,12,Years,2005,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c062,UGA_2017_SD,Female,Cisgender Woman,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c064,UGA_2017_SD,Male,Cisgender Man,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c065,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c066,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c067,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c068,UGA_2017_SD,Male,Cisgender Man,16,16,Years,2001,Age at enrollment,Not Collected,GA,1,OTH-Black/White,Not Provided
+TBD,uga_id_c069,UGA_2017_SD,Female,Cisgender Woman,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c070,UGA_2017_SD,Male,Cisgender Man,14,14,Years,2003,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c071,UGA_2017_SD,Male,Cisgender Man,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c072,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c073,UGA_2017_SD,Female,Cisgender Woman,13,13,Years,2004,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c074,UGA_2017_SD,Male,Cisgender Man,12,12,Years,2005,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c076,UGA_2017_SD,Female,Cisgender Woman,15,15,Years,2002,Age at enrollment,Not Collected,GA,1,White,Not Provided
+TBD,uga_id_c077,UGA_2017_SD,Female,Cisgender Woman,17,17,Years,2000,Age at enrollment,Not Collected,GA,2,OTH-Hispanic or Latino,Not Provided
+TBD,uga_id_c078,UGA_2017_SD,Male,Cisgender Man,17,17,Years,2000,Age at enrollment,Not Collected,GA,1,Black or African American,Not Provided
+TBD,uga_id_c080,UGA_2017_SD,Female,Cisgender Woman,12,12,Years,2006,Age at enrollment,Not Collected,GA,1,OTH-Black/White,Not Provided

@@ -1,0 +1,57 @@
+| Subtype | Strain name | Short name |
+| --- | --- | --- |
+| A(H1N1) | A/H1N1/South Carolina/1/1918 | SC/18 |
+| | A/H1N1/Puerto Rico/8/1934 | PR/34 |
+| | A/H1N1/Weiss/1943 | Wei/43 |
+| | A/H1N1/Fort Monmouth/1/1947 | FM/47 |
+| | A/H1N1/Denver/1957 | Den/57 |
+| | A/H1N1/New Jersey/8/1976 | NJ/76 |
+| | A/H1N1/Ussr/90/1977 | USSR/77 |
+| | A/H1N1/Brazil/11/1978 | Bra/78 |
+| | A/H1N1/California/10/1978 | CA/78 |
+| | A/H1N1/Chile/1/1983 | Chi/83 |
+| | A/H1N1/Singapore/6/1986 | Sing/86 |
+| | A/H1N1/Texas/36/1991 | TX/91 |
+| | A/H1N1/Beijing/262/1995 | Bei/95 |
+| | A/H1N1/New Caledonia/20/1999 | NC/99 |
+| | A/H1N1/Solomon Islands/3/2006 | SI/06 |
+| | A/H1N1/Brisbane/59/2007 | Bris/07 |
+| | A/H1N1/California/07/2009 | CA/09 |
+| | A/H1N1/Michigan 45/2015 | MI/15 |
+| A(H3N2) | A/H3N2/Hong Kong/8/1968 | HK/68 |
+| | A/H3N2/Port Chalmers/1/1973 | PC/73 |
+| | A/H3N2/Texas/1/1977 | TX/77 |
+| | A/H3N2/Mississippi/1/1985 | MI/85 |
+| | A/H3N2/Sichuan/2/1987 | Sich/87 |
+| | A/H3N2/Shandong/9/1993 | Shan/93 |
+| | A/H3N2/Nanchang/933/1995 | Nan/95 |
+| | A/H3N2/Sydney/5/1997 | Syd/97 |
+| | A/H3N2/Panama/2007/1999 | Pan/99 |
+| | A/H3N2/Fujian/411/2002 | Fuj/02 |
+| | A/H3N2/New York/55/2004 | NY/04 |
+| | A/H3N2/Brisbane/10/2007 | Br/07 |
+| | A/H3N2/Wisconsin/67/2005 | WI/05 |
+| | A/H3N2/Uruguay/716/2007 | Uru/07 |
+| | A/H3N2/Perth/16/2009 | Per/09 |
+| | A/H3N2/Victoria/361/2011 | Vic/11 |
+| | A/H3N2/Texas/50/2012 | TX/12 |
+| | A/H3N2/Switzerland/9715293/2013 | Switz/13 |
+| | A/H3N2/Hong Kong/4801/2014 | HK/14 |
+| | A/H3N2/Singapore/infimh-16-0019/2016 | Sing/16 |
+| B(Presplit) | B/Lee/1940 | Lee/40 |
+| | B/Maryland/1959 | MD/59 |
+| | B/Singapore/1964 | Sing/64 |
+| B(Victoria) | B/Victoria/02/1987 | Vic/87 |
+| | B/Hong Kong/330/2001 | HK/01 |
+| | B/Malaysia/27127/2004 | Mal/04 |
+| | B/Victoria/326/2006 | Vic/06 |
+| | B/Brisbane/60/2008 | Bris/08 |
+| | B/Colorado/06/2017 | CO/17 |
+| B(Yamagata) | B/Yamagata/16/1988 | Yam/88 |
+| | B/Harbin/7/1994 | Harb/94 |
+| | B/Sichuan/379/1999 | Sich/99 |
+| | B/Florida/4/2006 | FL/06 |
+| | B/Wisconsin/01/2010 | WI/10 |
+| | B/Texas/06/2011 | TX/11 |
+| | B/Massachusetts/02/2012 | MA/12 |
+| | B/Phuket/3073/2013 | Phu/13 |

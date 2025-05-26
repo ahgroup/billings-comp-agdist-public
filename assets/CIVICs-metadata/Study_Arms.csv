@@ -1,0 +1,12 @@
+#SDMCCDataTemplate:Study_Arms_v1.0
+Study_Code,Cohort_ID,Cohort_Name,Cohort_Description,Cohort_Type
+"Study-320_antigenic_dist","PA2013_SD","PA 2013 Cohort Standard Dose TIV","Pittsburgh, PA Cohort, individuals who received Standard Dose TIV FluZone vaccine during the 2013-2014 influenza season.","Observational"
+"Study-320_antigenic_dist","PA2014_SD","PA 2014 Cohort Standard Dose TIV","Pittsburgh, PA Cohort, individuals who received Standard Dose TIV FluZone vaccine during the 2014-2015 influenza season.","Observational"
+"Study-320_antigenic_dist","PA2015_SD","PA 2015 Cohort Standard Dose QIV","Pittsburgh, PA Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2015-2016 influenza season.","Observational"
+"Study-320_antigenic_dist","PA2016_SD","PA 2016 Cohort Standard Dose QIV","Pittsburgh, PA Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2016-2017 influenza season.","Observational"
+"Study-320_antigenic_dist","FL2013_SD","FL 2013 Cohort Standard Dose TIV","Port St. Lucie, FL Cohort, individuals who received Standard Dose TIV FluZone vaccine during the 2013-2014 influenza season.","Observational"
+"Study-320_antigenic_dist","FL2014_SD","FL 2014 Cohort Standard Dose TIV","Port St. Lucie, FL Cohort, individuals who received Standard Dose TIV FluZone vaccine during the 2014-2015 influenza season.","Observational"
+"Study-320_antigenic_dist","FL2015_SD","FL 2015 Cohort Standard Dose QIV","Port St. Lucie, FL Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2015-2016 influenza season.","Observational"
+"Study-320_antigenic_dist","FL2016_SD","FL 2016 Cohort Standard Dose QIV","Port St. Lucie, FL Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2016-2017 influenza season.","Observational"
+"Study-320_antigenic_dist","UGA2016_SD","UGA 2016 Cohort Standard Dose QIV","Athens, GA Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2016-2017 influenza season.","Observational"
+"Study-320_antigenic_dist","UGA2017_SD","UGA 2017 Cohort Standard Dose QIV","Athens, GA Cohort, individuals who received Standard Dose QIV FluZone vaccine during the 2017-2018 influenza season.","Observational"

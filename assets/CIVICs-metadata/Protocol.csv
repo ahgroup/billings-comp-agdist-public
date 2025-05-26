@@ -1,0 +1,3 @@
+#SDMCCDataTemplate:Protocol_v1.0
+Study_Code,Protocol_ID,Protocol_Name,Protocol_Description,Protocol_Type,Associated_Protocols
+"Study-320_antigenic_dist","Handelgroup_BayesModel","Bayesian Analysis and Modeling Protocol for Handelgroup Computational Projects","Protocol for building Bayesian models,using R and Stan, via rstan, cmdstanr, or brms.","Statistical Analysis Documentation","Not Applicable"

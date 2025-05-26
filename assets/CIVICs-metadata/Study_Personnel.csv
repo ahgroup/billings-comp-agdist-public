@@ -1,0 +1,4 @@
+#SDMCCDataTemplate:Study_Personnel_v1.0
+Study_Code,Email,Title_in_Study,Role_in_Study,Contributing_Institution_Code
+"Study-320_antigenic_dist","wesley.billings@uga.edu","Primary researcher","Sub-Investigator","UGAN_CIVR-HRP"
+"Study-320_antigenic_dist","ahandel@uga.edu","Study supervisor","Principal-Investigator","UGAN_CIVR-HRP"
