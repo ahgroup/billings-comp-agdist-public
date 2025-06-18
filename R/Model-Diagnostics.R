@@ -67,7 +67,7 @@ make_diagnostics_table <- function(cleaned_diagnostics_list, model_metadata) {
 				levels = c("gamm", "lmm"),
 				labels = c("GAMM", "LMM")
 			),
-			`Pct. Divergences`, `Pct. TD Exceeded`,
+			`Pct. Divergences`,
 			dplyr::across(tidyselect::contains("ESS"), \(x) sprintf("%.0f", x)),
 			dplyr::across(c(`min E-BFMI`, `max R_hat`), \(x) sprintf("%.2f", x))
 		)
@@ -75,10 +75,11 @@ make_diagnostics_table <- function(cleaned_diagnostics_list, model_metadata) {
 	out <-
 		cleaned_diagnostics |>
 		flextable::flextable() |>
-		flextable::align(j = 3, align = "right") |>
-		flextable::merge_v(j = c(1, 2)) |>
-		flextable::valign(j = c(1, 2), valign = "top") |>
-		flextable::fix_border_issues()
+		#flextable::align(j = 3, align = "right") |>
+		flextable::merge_v(j = 1) |>
+		flextable::valign(j = 1, valign = "top") |>
+		flextable::fix_border_issues() |>
+		flextable::fontsize(size = 10, part = "all")
 
 	return(out)
 }

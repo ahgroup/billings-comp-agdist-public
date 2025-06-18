@@ -399,8 +399,12 @@ clean_normalized_correlation_data <- function(model_data, metric_set) {
 make_normalized_correlation_pairplot <- function(
 		normalized_correlation_data, file_name
 	) {
-	cor_plot_raw_norm <- GGally::ggpairs(
-		normalized_correlation_data,
+	cor_plot_raw_norm <- normalized_correlation_data |>
+		dplyr::select(
+			strain_type, strain_name, vaccine_name,
+			Cartographic, Grantham, `p-Epitope`, Temporal
+		) |>
+		GGally::ggpairs(
 		mapping = ggplot2::aes(color = strain_type),
 		columns = 4:7,
 		upper = list(continuous = GGally::wrap(
@@ -410,7 +414,7 @@ make_normalized_correlation_pairplot <- function(
 		)),
 		lower = list(continuous = GGally::wrap(
 			GGally::ggally_points,
-			size = 2, stroke = 2, shape = 1, alpha = 0.7
+			size = 3, shape = 16, alpha = 0.5
 		)),
 		diag = list(continuous = GGally::wrap(
 			GGally::ggally_barDiag,

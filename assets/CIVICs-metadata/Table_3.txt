@@ -1,6 +1,6 @@
 | Metric | ΔELPD (LMM - GAMM) | ΔELPD / SE |
 | --- | --- | --- |
-| Cartographic | 106.32 (±19.93) | 5.3 |
-| Grantham | 203.47 (±24.28) | 8.4 |
-| Temporal | 46.30 (±11.14) | 4.2 |
-| p-Epitope | 416.55 (±38.76) | 10.7 |
+| Cartographic | 108.14 (±19.96) | 5.4 |
+| Grantham | 203.64 (±24.23) | 8.4 |
+| Temporal | 47.16 (±11.17) | 4.2 |
+| p-Epitope | 290.25 (±35.48) | 8.2 |

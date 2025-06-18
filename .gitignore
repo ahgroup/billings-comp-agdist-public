@@ -44,7 +44,7 @@ results/large-files/*
 results/output/*chunk*
 
 # Crew logs
-logs/
+logs*/
 
 # Targets stuff
 _targets/

@@ -136,7 +136,7 @@ generate_brms_model_filenames <- function(nested_model_data, prefix = NULL) {
 	return(f)
 }
 
-get_brms_settings <- function(testing = FALSE, verbose = FALSE) {
+get_brms_settings <- function(testing = FALSE, verbose = TRUE) {
 	if (isTRUE(testing)) {
 		brms_settings1 <- list(
 			iter = 20,
@@ -147,11 +147,11 @@ get_brms_settings <- function(testing = FALSE, verbose = FALSE) {
 		)
 	} else {
 		brms_settings1 <- list(
-			iter = 825,
-			warmup = 200,
-			chains = 32,
-			cores = 32,
-			control = list(adapt_delta = 0.99, max_treedepth = 12)
+			iter = 750,
+			warmup = 350,
+			chains = 48,
+			cores = 48,
+			control = list(adapt_delta = 0.99, max_treedepth = 15)
 		)
 	}
 

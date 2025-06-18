@@ -29,7 +29,7 @@ hpc <- !is.na(Sys.getenv("SLURM_JOB_ID", unset = NA))
 # Set up crew controllers
 controller_hpc_small <- crew.cluster::crew_controller_slurm(
 	name = "hpc_small",
-	workers = 4,
+	workers = 10,
 	seconds_idle = 120,  # time until workers are shut down after idle
 	options_cluster = crew.cluster::crew_options_slurm(
 		script_lines = c(
@@ -40,7 +40,7 @@ controller_hpc_small <- crew.cluster::crew_controller_slurm(
 		log_output = "logs/crew_small_log_%A.out",
 		log_error = "logs/crew_small_log_%A.err",
 		memory_gigabytes_required = 32,
-		cpus_per_task = 2, #total 20gb RAM
+		cpus_per_task = 2,
 		time_minutes = 1200, # wall time for each worker
 		partition = "batch",
 		verbose = TRUE
@@ -97,11 +97,11 @@ controller_brms <- crew.cluster::crew_controller_slurm(
 			"module load R/4.4.1-foss-2022b"
 			#add additional lines to the SLURM job script as necessary here
 		),
-		log_output = "logs/crew_large_log_%A.out",
-		log_error = "logs/crew_large_log_%A.err",
-		memory_gigabytes_required = 32,
-		cpus_per_task = 36,
-		time_minutes = 7200, # wall time for each worker
+		log_output = "logs/crew_brms_log_%A.out",
+		log_error = "logs/crew_brms_log_%A.err",
+		memory_gigabytes_required = 64,
+		cpus_per_task = 48,
+		time_minutes = 10080, # wall time for each worker
 		partition = "batch",
 		verbose = TRUE
 	)
@@ -109,7 +109,7 @@ controller_brms <- crew.cluster::crew_controller_slurm(
 
 n_local_cores <- ifelse(
 	isTRUE(hpc),
-	NA,
+	1,
 	parallelly::availableCores(omit = 2, constraints = "connections")
 )
 controller_local <- crew::crew_controller_local(

@@ -91,6 +91,12 @@ create_model_prediction_plot <- function(epreds, model_metadata, file_path) {
 			model_forms == "gamm",
 			metric %in% c("Temporal", "Cartographic", "Grantham", "p-Epitope")
 		) |>
+		dplyr::mutate(
+			metric = factor(
+				metric,
+				levels = c("Cartographic", "Grantham", "p-Epitope", "Temporal")
+			)
+		) |>
 		dplyr::select(metric, model_data) |>
 		tidyr::unnest(model_data) |>
 		dplyr::mutate(
@@ -103,6 +109,12 @@ create_model_prediction_plot <- function(epreds, model_metadata, file_path) {
 		tibble::add_column(epred_draws = epreds) |>
 		dplyr::filter(
 			metric %in% c("Temporal", "Cartographic", "Grantham", "p-Epitope")
+		) |>
+		dplyr::mutate(
+			metric = factor(
+				metric,
+				levels = c("Cartographic", "Grantham", "p-Epitope", "Temporal")
+			)
 		) |>
 		tidyr::unnest(epred_draws) |>
 		dplyr::mutate(
@@ -368,6 +380,13 @@ make_lmm_parameters_plot <- function(
 		dplyr::filter(
 			metric %in% c("Temporal", "Cartographic", "Grantham", "p-Epitope")
 		) |>
+		dplyr::mutate(
+			metric = factor(
+				metric,
+				levels = c("Cartographic", "Grantham", "p-Epitope", "Temporal")
+			) |>
+				forcats::fct_rev()
+		) |>
 		dplyr::summarise(
 			tidybayes::mean_hdci(value),
 			.by = c(metric, parameter, strain_type)
@@ -560,7 +579,7 @@ create_vaccine_specific_prediction_plot <- function(
 		filename = file_path,
 		plot = main_model_fig,
 		width = 6.5 * 1.5,
-		height = 9 * 1.5
+		height = 7 * 1.5
 	)
 
 	return(file_path)

@@ -61,16 +61,16 @@ suppressPackageStartupMessages({
 * Murphy John$^{1,2}$ (0009-0009-9591-1117);
 * Natalie E. Dean$^{5}$ (0000-0003-3884-0921);
 * Sarah Cobey$^{6}$ (0000-0001-5298-8979);
-* Benjamin J. Cowling$^{7}$;
+* Benjamin J. Cowling$^{7}$ (0000-0002-6297-7154);
 * Ye Shen$^{1}$;
 * Ted M. Ross$^{4, 8}$ (0000-0003-1947-7469);
 * Andreas Handel$^{1,2,*}$ (0000-0002-4622-1146).
 
-# Author affiliations
+**Affiliations**
 
 * $1$: Department of Epidemiology and Biostatistics, University of Georgia, Athens, GA, USA.
 * $2$: Center for the Ecology of Infectious Diseases, University of Georgia, Athens, GA, USA.
-* $3$: Vivli, Burlington, MA, USA.
+* $3$: Vivli, Cambridge, MA, USA.
 * $4$: Center for Vaccines and Immunology, Department of Veterinary Medicine, University of Georgia, Athens, GA, USA.
 * $5$: Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA, USA.
 * $6$: Department of Ecology and Evolution, University of Chicago, Chicago, IL, USA.
@@ -79,7 +79,7 @@ suppressPackageStartupMessages({
 
 $*$: Corresponding author: W. Zane Billings; 131 B.S. Miller Hall, 101 Buck Road, Athens, GA 30602, USA; email wesley.billings@uga.edu. Alternate corresponding author: Andreas Handel; 124 B.S. Miller Hall, 101 Buck Road, Athens, GA 30602, USA; email ahandel@uga.edu.
 
-# Author contributions (CRediT)
+**Author contributions (CRediT)**
 
 * ZB: conceptualization, data curation, formal analysis, methodology, software, visualization, writing (original draft preparation), writing (review and editing)
 * YG: data curation, methodology, writing (review and editing)
@@ -94,30 +94,26 @@ $*$: Corresponding author: W. Zane Billings; 131 B.S. Miller Hall, 101 Buck Road
 * TMR: data curation, investigation, resources, writing (review and editing)
 * AH: conceptualization, methodology, supervision, writing (original draft preparation), writing (review and editing), funding acquisition
 
-# Funding sources
+**Funding sources**
 
-* ZB: none declared
-* YG: none declared
-* ALS: none declared
-* SLM: none declared
-* HH: none declared
-* MJ: none declared
 * NED: partial funding from NIH contract(s)/grant(s) R01-AI139761
-* SC: ?
-* BJC: ?
-* YS: ?
 * TMR: partial funding from the Georgia Research Alliance as an Eminent Scholar
 * AH: partial funding from NIH contract(s)/grant(s) U01AI150747, R01AI170116, and 75N93019C00052.
+* All other authors: none declared
+
+The funders had no role in the decision to conduct or publish the study or in the formulation of the study.
+
+**Potential conflicts of interest:** B.J.C. has consulted for AstraZeneca, Fosun Pharma, GlaxoSmithKline, Haleon, Moderna, Novavax, Pfizer, Roche, and Sanofi Pasteur. None of these companies were involved in the formulation of the study or the decision to publish or conduct the study. All other authors report no potential conflicts of interest. 
 
 {{< pagebreak >}}
 
 # Abstract
 
-**Introduction:** Influenza continuously evolves to escape population immunity, which makes formulating a vaccine challenging. Next season's selected vaccine formulation is based based on strains that are expected to circulate, so if the circulating strain is different, vaccine effectiveness (VE) can be reduced. Quantifying the antigenic difference between vaccine strains and circulating strains can aid interpretation of VE, and several antigenic distance metrics have been discussed in the literature. Here, we compare how predicted breadth of vaccine-induced immune response varies when different metrics are used to calculate antigenic distance.
+**Introduction:** Influenza continuously evolves to escape population immunity, which makes formulating a vaccine challenging. Antigenic differences between vaccine strains and circulating strains can affect vaccine effectiveness (VE). Quantifying the antigenic difference between vaccine strains and circulating strains can aid interpretation of VE, and several antigenic distance metrics have been discussed in the literature. Here, we compare how predicted breadth of vaccine-induced immune response varies when different metrics are used to calculate antigenic distance.
 
 **Methods:** We analyzed data from a seasonal influenza vaccine cohort which collected serum samples from 2013/14 -- 2017/18 at three study sites. The data include pre- and post-vaccination HAI titers to the vaccine strains and a panel of heterologous strains. We used that data to calculate four different antigenic distance measures between assay strains and vaccine strains: difference in year of isolation (temporal), $p$-Epitope (sequence), Grantham's distance (biophysical), and antigenic cartography distance (serological). We analyzed agreement between the four metrics using Spearman's correlation and intraclass correlation. We then fit Bayesian generalized additive mixed-effects models  to predict the effect of antigenic distance on post-vaccination titer after controlling for confounders and analyzed the pairwise difference in predictions between metrics.
 
-**Results:** The four antigenic distance metrics demonstrated low reliability for influenza subtypes A(H1N1), B/Victoria, and B/Yamagata. The exception was A(H3N2), which showed high reliability across distance metrics. We found that after accounting for pre-vaccination titer, study site, and repeated measurements across individuals, the predicted post-vaccination titers conditional on antigenic distance and subtype were nearly identical across antigenic distance metrics, with A(H1N1) showing the only notable deviation between metrics.
+**Results:** The four antigenic distance metrics had low or moderate correlation for influenza subtypes A(H1N1), B/Victoria, and B/Yamagata. A(H3N2) distances were highly correlated. We found that after accounting for pre-vaccination titer, study site, and repeated measurements across individuals, the predicted post-vaccination titers conditional on antigenic distance and subtype were nearly identical across antigenic distance metrics, with A(H1N1) showing the only notable deviation between metrics.
 
 **Discussion:** Despite low correlation among metrics, we found that different antigenic distance metrics generated similar predictions about breadth of vaccine response. Costly titer arrays for antigenic cartography may not be needed when simpler sequence-based metrics suffice for quantifying vaccine breadth.
 
@@ -143,13 +139,13 @@ Researchers tested the pre- and post-vaccination serum samples with a panel of h
 
 Each HAI assay in our dataset can be defined by its (1) subtype, (2) vaccine strain, and (3) assay strain. The broadgest grouping is "subtype", which we use to describe both influenza A subtypes (H1N1 and H3N2) and influenza B lineages (Victoria-like and Yamagata-like). The vaccine strains associated with an HAI assay are the strains used in the Fluzone vaccine formulation in the season when the serum sample was collected. Each assay has three or four associated vaccine strains, depending on whether the individual who gave the serum sample received a trivalent or quadrivalent vaccine (see Supplement for details on the vaccine formulations). Finally, the assay strain for a given HAI assay is the strain of the actual virus added to the serum sample during the assay. We only compared vaccine strains and assay strains of the same subtype in our analysis.
 
-For our secondary data analysis, we extracted previously deidentified records from the 2013/14 through 2017/18 influenza seasons. The study is ongoing and more assays are available, but the size of the historical panel was reduced after the 2017/18 season, and there would not be enough heterologous strains to estimate stable cartographic maps, so we limit our analysis to these seasons of data. Since examining the effect of vaccine dose was not our main focus here, and we previously observed dose-dependent differences in the heterologous response [@billings2025], we only included individuals who received standard dose vaccines in our study. We included all participants from the specified seasons who received SD vaccine and had records for both pre-vaccination and post-vaccination serum samples in our analysis. Our primary outcome of interest was the reciprocal post-vaccination HAI titer, which we log transformed:
-$$\text{transformed titer} = \log_{2} \left(\frac{\text{reciprocal HAI titer}}{5}\right).$$
+For our secondary data analysis, we extracted previously deidentified records from the 2013/14 through 2017/18 influenza seasons. The study is ongoing and more assays are available, but the size of the historical panel was reduced after the 2017/18 season, and there would not be enough heterologous strains to estimate stable cartographic maps, so we limit our analysis to these seasons of data. Since examining the effect of vaccine dose was not our main focus here, and we previously observed dose-dependent differences in the heterologous response [@billings2025], we only included individuals who received standard dose vaccines in our study. We included all participants from the specified seasons who received SD vaccine and had records for both pre-vaccination and post-vaccination serum samples in our analysis. Our primary outcome of interest was the post-vaccination HAI titer (the reciprocal of the highest serum dilution which shows agglutination), which we log transformed:
+$$\text{transformed titer} = \log_{2} \left(\frac{\text{HAI titer}}{5}\right).$$
 Our final dataset for analysis contained one pair of transformed titers (pre- and post- vaccination) per person-year per assay strain in the historical panel, along with corresponding covariate measurements.
 
-We divided the reciprocal titer by $5$ before taking the log because the HAI assay had a lower limit of detection (LoD) of $10$, and an upper LoD of $20,480$. Values below the LoD were coded as 5 in the dataset. After our transformation, values below the LoD had a value of $0$. All observed values in our dataset were below the upper LoD. We used the same outcome definitions defined in our previous work on this dataset [@billings2025].
+We divided the titer by $5$ before taking the log because the HAI assay had a lower limit of detection (LoD) of $10$, and an upper LoD of $20,480$. Values below the LoD were coded as titers of $5$ in the dataset, corresponding to a transformed titer of $0$. All observed values in our dataset were below the upper LoD. We used the same outcome definitions defined in our previous work on this dataset [@billings2025].
 
-We computed the pairwise antigenic distance for all strains used in the dataset (see the Supplement for a complete list). We used four different methods to compute the antigenic distance: temporal distance, dominant $p$-Epitope distance [@gupta2006], Grantham's distance [@grantham1974], and cartographic distance [@smith2004]. Briefly: we calculated temporal difference as the difference in the year of isolation between two strains (we had no assay strains with years of isolation subsequent to the vaccine strain, so all distances are positive). The dominant $p$-Epitope distance is the maximum of the Hamming distances [@hamming1950] calculated for each of the five major epitope sites on the hemagglutinin head. Grantham's distance is similar to the Hamming distance on the entire HA sequence, but weights each substitution between strains by a score which is larger for amino acids with very different biochemical or biophysical properties. Finally, we conducted antigenic cartography using Racmacs [@racmacs] and reduced all of our cartographic maps to two dimensions. For complete details on antigenic distance calculation, see the Supplement.
+We computed the pairwise antigenic distance for all strains used in the dataset (see the Supplement for a complete list). We used four different methods to compute the antigenic distance: temporal distance, dominant $p$-Epitope distance [@gupta2006], Grantham's distance [@grantham1974], and cartographic distance [@smith2004]. We calculated the temporal difference as the difference in the year of isolation between two strains (we had no assay strains with years of isolation subsequent to the vaccine strain, so all distances are positive). The dominant $p$-Epitope distance is the maximum of the Hamming distances [@hamming1950] calculated for each of the five major epitope sites on the hemagglutinin head. Grantham's distance is similar to the Hamming distance on the entire HA sequence, but weights each substitution between strains by a score which is larger for amino acids with very different biochemical or biophysical properties. Finally, we conducted antigenic cartography using Racmacs [@racmacs] and reduced all of our cartographic maps to two dimensions. For complete details on antigenic distance calculation, see the Supplement.
 
 ## Statistical analyses
 
@@ -165,7 +161,7 @@ To examine the differences in predictions across each of the antigenic distance 
 
 ## Implementation
 
-We conducted our analysis with `r version$version.string` [@base] in RStudio version 2024.09.0+375 [@rstudioteam2024]. Our analysis pipeline was implemented in `targets` [@targets]. We used the packages `here` [@here], `renv` [@renv], `tidyverse` [@wickham2019] for data curation and project management and the packages `marginaleffects` [@marginaleffects], `tidybayes` [@tidybayes], `ggdist` [@kay2024; @kay2024a], `bayesboot` [@bayesboot], and `loo` [@loo1, @loo2, @loo3] for formal analysis. We used the packages `ggplot2` [@ggplot2] and `GGally` [@GGally] for generating figures; and the packages `gtsummary` [@gtsummary] and `flextable` [@flextable] for generating tables. We generated the manuscript using Quarto version `r quarto::quarto_version()` [@quarto] along with the `R` packages `knitr` [@knitr1; @knitr2; @knitr3] and `softbib` [@softbib]. We implemented our Bayesian models with the `brms` package [@brms1; @brms2; @brms3] using the `cmdstanr` backend and cmdstan version 2.34.1 [@cmdstanr] as the interface to the Stan programming language for Bayesian modeling. The Supplement contains more exhaustive details on our methodology, including instructions for reproducing our results. Our dataset and code are archived on GitHub ([https://github.com/ahgroup/billings-comp-agdist-public](https://github.com/ahgroup/billings-comp-agdist-public)) and Zenodo (PUT THE ZENODO LINK HERE).
+We conducted our analysis with `r version$version.string` [@base] in RStudio version 2024.09.0+375 [@rstudioteam2024]. Our analysis pipeline was implemented in `targets` [@targets]. We used the packages `here` [@here], `renv` [@renv], `tidyverse` [@wickham2019] for data curation and project management and the packages `marginaleffects` [@marginaleffects], `tidybayes` [@tidybayes], `ggdist` [@kay2024; @kay2024a], `bayesboot` [@bayesboot], and `loo` [@loo1, @loo2, @loo3] for formal analysis. We used the packages `ggplot2` [@ggplot2] and `GGally` [@GGally] for generating figures; and the packages `gtsummary` [@gtsummary] and `flextable` [@flextable] for generating tables. We generated the manuscript using Quarto version `r quarto::quarto_version()` [@quarto] along with the `R` packages `knitr` [@knitr1; @knitr2; @knitr3] and `softbib` [@softbib]. We implemented our Bayesian models with the `brms` package [@brms1; @brms2; @brms3] using the `cmdstanr` backend and cmdstan version 2.34.1 [@cmdstanr] as the interface to the Stan programming language for Bayesian modeling. The Supplement contains more exhaustive details on our methodology, including instructions for reproducing our results. Our dataset and code are archived on GitHub ([https://github.com/ahgroup/billings-comp-agdist-public](https://github.com/ahgroup/billings-comp-agdist-public)) and Zenodo ([DOI: 10.5281/zenodo.15522148](https://doi.org/10.5281/zenodo.15522148)).
 
 # Results
 
@@ -190,7 +186,7 @@ tbl_counts |>
 
 ## Antigenic distance metrics have low correlation for all subtypes except A(H3N2)
 
-First, we examined the overall agreement between the different distance metrics. We analyzed agreement using the intraclass correlation (ICC), shown in @tbl-icc. ICC was low for all subtypes except A(H3N2), and the lower credibility limit included zero for all subtypes except A(H3N2), so despite the moderate point estimate for B/Yamagata with a high upper limit, there was low consistency in antigenic distance measurements across methods. For A(H3N2), we observed moderate agreement across methods. Our ICC results indicate for each subtype except A(H3N2), at least one of the antigenic distance metrics systematically disagrees from the other.
+First, we examined the overall agreement between the different distance metrics. We analyzed agreement using the intraclass correlation (ICC), shown in @tbl-icc. ICC was low for all subtypes except A(H3N2), and the credible interval included zero for all subtypes except A(H3N2), so despite the moderate point estimate for B/Yamagata with a high upper limit, there was low consistency in antigenic distance measurements across methods. For A(H3N2), we observed moderate agreement across methods. Our ICC results indicate for each subtype except A(H3N2), at least one of the antigenic distance metrics systematically disagrees from the other.
 
 ```{r}
 #| label: tbl-icc
@@ -301,7 +297,7 @@ TODO REWRITE THIS HOW I HAD IT BEFORE. THE FIRST PARAGRAPH IS UNNECESSARY
 TODO SARAH AND BEN DISCUSSION COMMENTS
 -->
 
-We computed multiple antigenic distance metrics on the same set of influenza strains. Using immunological data from a human cohort, we were able to compare cartographic data to sequence-based, biophysical, and temporal antigenic distance measures which have been used before for analyzing vaccine breadth. We then fit linear mixed-effects models (LMMs) and generalized additive mixed models (GAMMs) to the immunological data separately for each cohort, controlling for subtype, pre-vaccination titer, and multiple sources of random variation. By comparing the predictions and parameters from the estimated models across the four antigenic distance metrics, we were able to assess the similarity of the metrics in a more practical context.
+We computed multiple antigenic distance metrics on the same set of influenza strains. Using immunogenicity data from a human cohort, we were able to compare cartographic data to sequence-based, biophysical, and temporal antigenic distance measures which have been used before for analyzing vaccine breadth. We then fit linear mixed-effects models (LMMs) and generalized additive mixed models (GAMMs) to the immunological data separately for each cohort, controlling for subtype, pre-vaccination titer, and multiple sources of random variation. By comparing the predictions and parameters from the estimated models across the four antigenic distance metrics, we were able to assess the similarity of the metrics in a more practical context.
 
 Despite low correlations between the four antigenic distance measures for all subtypes except A(H3N2), we found that all four antigenic distance measures produced similar predictions about the heterologous vaccine response, regardless of subtype. Unexpectedly, the subtype generating the most different predictions was A(H3N2), which had the highest correlation between metrics. After we account for important confounders and other sources of variation, the differences between metrics seemed to disappear, with the exception of the unusually small slope for $p$-Epitope distance for influenza A(H3N2). Along with our pointwise prediction comparisons (shown in the supplement), these results suggest a systematic disagreement on the vaccine outcome scale between $p$-Epitope distance and other metrics for A(H3N2), which contrasts with the high pairwise correlations between $p$-Epitope and other metrics for this subtype. Perhaps important antigenic changes for H3N2 have occurred outside of the immunodominant epitopes, or features like glycosylation which might be more easily captured by Grantham or cartographic distance are important. Or, perhaps the difference is due to some form of noise in our study --- we have no data from equivalent human cohort studies with wide heterologous panels to compare our results to, so we do not know if this result is consistent.
 

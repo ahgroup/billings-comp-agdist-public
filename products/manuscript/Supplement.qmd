@@ -65,13 +65,11 @@ fit_flextable_to_page <- function(tbl, page_width = 6.5){
 
 # Reproducibility instructions
 
-In order to reproduce our results you should first download the archived repository from either Zenodo (here: ADD ZENODO LINK) or clone/download the Git repository (hosted on GitHub here: [https://github.com/ahgroup/billings-comp-agdist-public](https://github.com/ahgroup/billings-comp-agdist-public)). Note that if you use different software, software versions, or run the results in a way that differs from these instructions you may have expected errors or differences between your results and ours.
+In order to reproduce our results you should first download the archived repository from either Zenodo ([DOI: 10.5281/zenodo.15522148](https://doi.org/10.5281/zenodo.15522148)) or clone/download the Git repository (hosted on GitHub here: [https://github.com/ahgroup/billings-comp-agdist-public](https://github.com/ahgroup/billings-comp-agdist-public)). Note that if you use different software, software versions, or run the results in a way that differs from these instructions you may have expected errors or differences between your results and ours.
 
 We ran our analysis pipeline on the University of Georgia's sapelo2 computing cluster, which is a distributed computing cluster running CentOS Linux release 7.5 which uses Slurm to schedule jobs. Our code is written as a `targets` pipeline [@targets] and can detect whether you are running an HPC job in a Slurm environment or not. Notably if you use a Slurm cluster computing environment which is configured differently from UGA's sapelo2 environment, you may need to make changes to the Slurm submission script (`job.sh`) or to the portion of the `_targets.R` script that defines the Slurm jobs. Our code will run on a local interactive R session as well, and will automatically detect the number of cores available to use. **Each Bayesian model currently requests 32 cores and we therefore highly suggest running the main analysis on a cluster computing setup.**
 
 Once you've downloaded the code, you should open the `.Rproj` file in Rstudio. Using the R project file and RStudio is not mandatory, but if you don't, we assume you know what you are doing. You can then run the entire analysis pipeline by running `targets::tar_make()` in the console. If you are in an extremely limited computing environment, you can add the option `use_crew = FALSE` to force all targets to execute sequentially (although in this case you probably do not want to run the bayesian models anyways). You can run the command `targets::tar_visnetwork(TRUE)` to see an interactive graph of our analysis pipeline, and you can pass a vector of target names to `tar_make()` (potentially using `tidyselect` to define the vector) to only run those targets. Note that due to differences in OS and file systems, targets will likely appear outdated for you even though they are up-to-date. We also do not provide all of our model result files in the GitHub because they are extremely large (over 100GB) and infeasible to distribute, so if you want to edit or examine the Bayesian models you will need to rerun the code.
-
-## Software requirements
 
 You will need the following software requirements to run our code.
 
@@ -83,8 +81,6 @@ You will need the following software requirements to run our code.
 * Multiple system dependencies, including `CMake`. On Windows/MacOS these are provided by RTools or XCode respectively. On any type of linux there may be additional system requirements you will need to download. Your system should prompt you about this.
 * The packages specified in the file `renv.lock`, which can be installed as explained in the next section.
 
-## Running our code
-
 With the software installed, follow these instructions to reproduce our results.
 
 1. Open the `billings-comp-agdist-public.Rproj` file in Rstudio.
@@ -93,6 +89,8 @@ With the software installed, follow these instructions to reproduce our results.
 1. Now you can run our pipeline by running `targets::tar_make()` in the console. If you are new to targets and want to learn more about how the pipeline works, we recommend reading the targets manual which can be found here: [https://books.ropensci.org/targets/](https://books.ropensci.org/targets/).
 
 **Again we note that our code is computationally intensive and we ran it on a distributed computing cluster. It still took multiple days to run, even running many operations in parallel with many cores each.**
+
+{{< pagebreak >}}
 
 # Extended Methods
 
@@ -428,7 +426,7 @@ targets::tar_read("combined_metrics_plot") |>
 We examined the key model diagnostics for all of our models to ensure they converged. The main diagnostics with target criteria identified by the Stan development team [@standevelopmentteam2024] are:
 
 - $\hat{R}$, which measures chain mixing, should be $<1.01$ for all parameters;
-- Bulk and tail ESS, measures of the number of samples drawn if all of the samples were independent, should be greater than 100 times the number of chains;
+- Bulk and tail ESS, measures of the number of samples drawn if all of the samples were independent, should be greater than 1000;
 - Number of divergent transitions should be less than 1% of samples;
 - Number of treedepth exceedences should be less than 1% of samples;
 - E-BFMI should be greater than 0.3 for all chains.
@@ -437,12 +435,14 @@ These diagnostics are presented in @tbl-mod-diag.
 
 ```{r}
 #| label: tbl-mod-diag
-#| tbl-cap: "Model diagnostics for the GAMMs and LMMs fit with each of the antigenic distance metrics. We show the total number of divergences out of the number of samples, and there were no treedepth exceedences for any of our models. For each model, we show the minimum ESS across all parameters, the minimum E-BFMI across chains, and the maximum R hat across all parameters."
+#| tbl-cap: "Model diagnostics for the GAMMs and LMMs fit with each of the antigenic distance metrics. We show the total number of divergences out of the number of samples along with other common diagnostic criteria. For each model, we show the minimum ESS across all parameters, the minimum E-BFMI across chains, and the maximum R hat across all parameters."
 
 targets::tar_read("posterior_fit_diagnostics_table_file") |>
 	readr::read_rds() |>
 	fit_flextable_to_page()
 ```
+
+Most of our models had $\hat{R}$ statistics which were 1.02 or 1.03, but these were for highly constrained parameters. Each model already takes at least 6 days to run in an HPC environment, so running the models longer is computationally infeasible due to the size of our dataset and unlikely to qualitatively change our results.
 
 We also examined trace plots of the parameters to ensure there were no obvious errors (and, in general, errors in the trace plots will be noticeable in the $\hat{R}$ statistic). We also examined the prior/posterior shrinkage and visually inspected prior/posterior plots. Since we have many models, each with thousands of parameters, we did not include the plots here. We observed good values of shrinkage (far from 1, indicating a divergence away from the prior) for most parameters, with the exception of some highly constrained parameters, typically correlations and GAMM regularizing variance parameters. Some of the random effects for individuals had poor shrinkage as well, but overall the shrinkage for random effects and for the random effects variances was far from 1. Since the GAMM was not supported by ELPD anyways, we did not investigate prior sensitivity analysis further since all of the LMM parameters had good shrinkage. Therefore, we feel safe about our choice of regularizing priors and a prior sensitivity analysis would require extensive computational time without being useful.
 
@@ -463,7 +463,7 @@ Since there are thousands of parameters per model, we do not show the shrinkage 
 
 ## ELPD Diagnostics
 
-Similar to frequentist AIC/BIC and Bayesian WAIC, ELPD relies on a computationally efficient approximation to leave-one-out cross validation that allows estimation of a goodness-of-fit metric without having to refit a computationally impossible number of models. However, unlike other informatic criteria, the LOO-IC based on the leave-one-out expected log pointwise predictive density provides diagnostics to determine if the approximation is trustworthy [@vehtari2017; @vehtari2024]. @tbl-elpd-diagnostics shows the diagnostic measures for each of our models. The maximum Pareto $k$ diagnostic is the primary value indicating whether the LOO-ELPD approximation is accurate -- all Pareto $k$ values (one per observation) should be below $0.7$. The $N_{\text{eff}}$ value is the effective sample size for the approximation, and the ratio of the effective sample size to the actual sample size should be greater than $0.5$ to ensure that the threshold of $0.7$ is reliable. If the number of effective samples is greater than 2200 however, the threshold of $0.7$ is useful regardless of the ratio.
+Similar to frequentist AIC/BIC and Bayesian WAIC, ELPD relies on a computationally efficient approximation to leave-one-out cross validation that allows estimation of a goodness-of-fit metric without having to refit a computationally impossible number of models. However, unlike other informatic criteria, the LOO-IC based on the leave-one-out expected log pointwise predictive density provides diagnostics to determine if the approximation is trustworthy [@vehtari2017a; @vehtari2024]. @tbl-elpd-diagnostics shows the diagnostic measures for each of our models. The maximum Pareto $k$ diagnostic is the primary value indicating whether the LOO-ELPD approximation is accurate -- all Pareto $k$ values (one per observation) should be below $0.7$. The $N_{\text{eff}}$ value is the effective sample size for the approximation, and the ratio of the effective sample size to the actual sample size should be greater than $0.5$ to ensure that the threshold of $0.7$ is reliable. If the number of effective samples is greater than 2200 however, the threshold of $0.7$ is useful regardless of the ratio.
 
 ```{r}
 #| label: tbl-elpd-diagnostics
