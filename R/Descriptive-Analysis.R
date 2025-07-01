@@ -272,7 +272,8 @@ create_annual_panel_table <- function(model_data, file_path) {
 			.cols = tidyr::starts_with("2"),
 			.fn = \(x) gsub(" - 20(.{2})", "/\\1", x)
 		) |>
-		dplyr::arrange(Subtype, Strain)
+		dplyr::arrange(Subtype, Strain) |>
+		dplyr::mutate(Subtype = clean_subtype(Subtype))
 
 	col_matrix <- ifelse(
 		strain_panel_dat[, -c(1, 2)] == "X",
@@ -315,6 +316,7 @@ create_strain_name_translation_table <- function(model_data, file_path) {
 				from = "short",
 				to = "type-subtype"
 			),
+			`Subtype` = clean_subtype(`Subtype`),
 			`Strain name` = hgp::replace_strain_names(
 				strain_name,
 				from = "short",
@@ -346,6 +348,7 @@ create_fluzone_vaccine_table <- function(model_data, file_path) {
 		dplyr::select(type_subtype, season_short, vaccine_name) |>
 		dplyr::distinct() |>
 		tidyr::complete(type_subtype, season_short) |>
+		dplyr::mutate(type_subtype = clean_subtype(type_subtype)) |>
 		tidyr::pivot_wider(
 			names_from = c(type_subtype),
 			values_from = vaccine_name

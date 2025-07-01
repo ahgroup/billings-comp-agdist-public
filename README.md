@@ -181,15 +181,15 @@ files.
   `assets/package-refs.bib`; `assets/refs.bib`; `assets/vancouver.csl`;
   `assets/word-template.docx`.
 - Zipped NIH CIVICs metadata files:
-  `H:/research/billings-comp-agdist-project/assets/CIVICs-metadata-submission.zip`.
+  `F:/research/billings-comp-agdist-project/assets/CIVICs-metadata-submission.zip`.
 - NIH CIVICs-standard formatted dataset:
-  `H:/research/billings-comp-agdist-project/data/processed/reporting-data.Rds`;
-  `H:/research/billings-comp-agdist-project/data/processed/reporting-data.csv`.
+  `F:/research/billings-comp-agdist-project/data/processed/reporting-data.Rds`;
+  `F:/research/billings-comp-agdist-project/data/processed/reporting-data.csv`.
 - Transformed dataset for modeling:
-  `H:/research/billings-comp-agdist-project/data/processed/model-data.Rds`;
-  `H:/research/billings-comp-agdist-project/data/processed/model-data.csv`.
+  `F:/research/billings-comp-agdist-project/data/processed/model-data.Rds`;
+  `F:/research/billings-comp-agdist-project/data/processed/model-data.csv`.
 - Model metadata for ordering the model fits:
-  `H:/research/billings-comp-agdist-project/results/output/model-metadata.Rds`
+  `F:/research/billings-comp-agdist-project/results/output/model-metadata.Rds`
 - Prior samples from models (directory):
   `/scratch/wb12984/billings-comp-agdist-project/results/large-files/brms-fits/prior`.
 - Posterior sampels from models (directory):

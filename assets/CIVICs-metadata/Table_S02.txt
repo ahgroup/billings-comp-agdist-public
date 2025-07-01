@@ -38,16 +38,16 @@
 | | Switz/13 | X | X | X | X | X |
 | | HK/14 | | X | X | X | X |
 | | Sing/16 | | | | | X |
-| B(Presplit) | Lee/40 | X | X | X | X | |
+| B/Pre | Lee/40 | X | X | X | X | |
 | | MD/59 | | X | X | X | |
 | | Sing/64 | | X | X | X | |
-| B(Victoria) | Vic/87 | | | | X | X |
+| B/Victoria | Vic/87 | | | | X | X |
 | | HK/01 | | | X | X | X |
 | | Mal/04 | | | X | X | X |
 | | Vic/06 | | | X | X | X |
 | | Bris/08 | | | X | X | X |
 | | CO/17 | | | X | X | X |
-| B(Yamagata) | Yam/88 | X | X | X | X | X |
+| B/Yamagata | Yam/88 | X | X | X | X | X |
 | | Harb/94 | X | X | X | X | X |
 | | Sich/99 | X | X | X | X | X |
 | | FL/06 | X | X | X | X | X |

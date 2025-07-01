@@ -170,6 +170,12 @@ list(
 		command = here::here("data", "raw", "antigenic-distance-data.Rds"),
 		read = readr::read_rds(!!.x)
 	),
+	# Table of accession numbers for sequences
+	tarchetypes::tar_file_read(
+		name = accession_number_table_data,
+		command = here::here("assets", "accession-table.Rds"),
+		read = readr::read_rds(!!.x)
+	),
 	# Targets for data cleaning and processing
 	targets::tar_target(
 		name = prepped_cohort_data,
@@ -791,6 +797,14 @@ list(
 		command = save_file_default(
 			substitution_correlation_table,
 			here::here("results", "tables", "substitution-dist-correlations.Rds")
+		)
+	),
+	# Format the accession number table
+	tarchetypes::tar_file(
+		name = accession_number_table_file,
+		command = format_accession_number_table(
+			accession_number_table_data,
+			here::here("results", "tables", "accession-number-table.Rds")
 		)
 	),
 	# CIVICs metadata submission generate

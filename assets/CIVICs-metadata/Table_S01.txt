@@ -1,4 +1,4 @@
-| Season | A(H1N1) | A(H3N2) | B(Victoria) | B(Yamagata) |
+| Season | A(H1N1) | A(H3N2) | B/Victoria | B/Yamagata |
 | --- | --- | --- | --- | --- |
 | 2013/14 | CA/09 | TX/12 | — | MA/12 |
 | 2014/15 | CA/09 | TX/12 | — | MA/12 |

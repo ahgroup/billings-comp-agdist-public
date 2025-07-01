@@ -199,3 +199,18 @@ generate_software_bibliography <- function(file_path) {
 
 	return(file_path)
 }
+
+# Function to make the accession number table formatted nicely
+format_accession_number_table <- function(
+		accession_number_table_data, file_path
+	) {
+	out <-
+		accession_number_table_data |>
+		flextable::flextable() |>
+		flextable::fontsize(size = 7.5, part = "all") |>
+		flextable::padding(padding = 0.01, part = "all")
+
+	save_file_default(out, file_path)
+
+	return(file_path)
+}

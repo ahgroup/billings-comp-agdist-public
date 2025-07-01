@@ -38,16 +38,16 @@
 | | A/H3N2/Switzerland/9715293/2013 | Switz/13 |
 | | A/H3N2/Hong Kong/4801/2014 | HK/14 |
 | | A/H3N2/Singapore/infimh-16-0019/2016 | Sing/16 |
-| B(Presplit) | B/Lee/1940 | Lee/40 |
+| B/Pre | B/Lee/1940 | Lee/40 |
 | | B/Maryland/1959 | MD/59 |
 | | B/Singapore/1964 | Sing/64 |
-| B(Victoria) | B/Victoria/02/1987 | Vic/87 |
+| B/Victoria | B/Victoria/02/1987 | Vic/87 |
 | | B/Hong Kong/330/2001 | HK/01 |
 | | B/Malaysia/27127/2004 | Mal/04 |
 | | B/Victoria/326/2006 | Vic/06 |
 | | B/Brisbane/60/2008 | Bris/08 |
 | | B/Colorado/06/2017 | CO/17 |
-| B(Yamagata) | B/Yamagata/16/1988 | Yam/88 |
+| B/Yamagata | B/Yamagata/16/1988 | Yam/88 |
 | | B/Harbin/7/1994 | Harb/94 |
 | | B/Sichuan/379/1999 | Sich/99 |
 | | B/Florida/4/2006 | FL/06 |
