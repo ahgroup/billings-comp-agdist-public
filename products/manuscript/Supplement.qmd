@@ -320,7 +320,7 @@ A summary of the demographic information for the individuals included in our ana
 
 ```{r}
 #| label: tbl-demographics
-#| tbl-cap: "Demographic characteristics of the study participants. Summary statistics shown are count and column percent for sex, race, and contributed person-years; and median with range for age at first enrollment, birth year, and contributed HAI assays. Demographic variables were collected by a questionnaire from participants on the date they enrolled in a study season and received a vaccine. Coding details for the demographic variables are in the Supplement."
+#| tbl-cap: "Demographic characteristics of the study participants. Summary statistics shown are count and column percent for sex, race, and contributed person-years; and median with range for age at first enrollment, birth year, and contributed HAI assays. Demographic variables were collected by a questionnaire from participants on the date they enrolled in a study season and received a vaccine."
 
 targets::tar_read("demographics_table") |>
 	readr::read_rds() |>
@@ -433,7 +433,7 @@ We quantified the uniform spread of points for each antigenic distance metric an
 
 ```{r}
 #| label: fig-metrics
-#| fig-cap: "A) Parallel coordinates plot showing how the estimated pairwise antigenic distances change for each of the antigenic distance metrics. Each line in the plot represents one vaccine strain and assay strain pair, and the connected points are the pairwise distance measured under each metric shown on the x-axis. When two lines cross, this indicates that two metrics assigned a different relative order to the pairwise combination. Note that Grantham and especially $p$-Epitope distances are integer-valued and concentrate measurements to specific points which potentially overlap (temporal distance is also integer valued but has enough spread to avoid a similar issue). B) The gap standard deviation (gap SD) for each subtype and antigenic distance metric. The posterior distribution of gap SDs was calculated using the bayesian bootstrap with reweighting. The red horizontal bar shows the mean of the bootstrap posterior and the error bars show the 95% highest density credible interval (HDCI)."
+#| fig-cap: "Dispersion metrics for antigenic distance metrics. A) Parallel coordinates plot showing how the estimated pairwise antigenic distances change for each of the antigenic distance metrics. Each line in the plot represents one vaccine strain and assay strain pair, and the connected points are the pairwise distance measured under each metric shown on the x-axis. When two lines cross, this indicates that two metrics assigned a different relative order to the pairwise combination. Note that Grantham and especially $p$-Epitope distances are integer-valued and concentrate measurements to specific points which potentially overlap (temporal distance is also integer valued but has enough spread to avoid a similar issue). B) The gap standard deviation (gap SD) for each subtype and antigenic distance metric. The posterior distribution of gap SDs was calculated using the bayesian bootstrap with reweighting. The red horizontal bar shows the mean of the bootstrap posterior and the error bars show the 95% highest density credible interval (HDCI)."
 
 targets::tar_read("combined_metrics_plot") |>
 	knitr::include_graphics()
@@ -561,5 +561,6 @@ Due to the relative consistency across these other antigenic distance metrics, w
 
 # References
 
-
+::: {#refs}
+:::
 
