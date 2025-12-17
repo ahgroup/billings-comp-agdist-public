@@ -8,21 +8,21 @@
 
 <!-- badges: end -->
 
-This project, tentatively titled “Impact of antigenic distance on the
-heterologous immune response to seasonal influenza vaccine in an elderly
-human cohort” focuses on analyzing the UGAFluVac dataset. This is a
-followup to [this research
-project](https://github.com/ahgroup/SD-HD-flu-vaccine), which analyzed
-heterologous immunity separately for each vaccine strain that was
-analyzed in the UGAFluVac data. For this project, we plan to build on
-our previous work on antigenic distances, and replace discrete
-strain-specific effects with the continuous effect of antigenic
-distance.
+Paper: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013720](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013720)
 
-We will control for confounding in a causal analysis framework and used
-bayesian multilevel modeling to estimate the impact of antigenic
-distance on vaccine outcomes, specifically focusing on comparing
-individuals who received HD and SD vaccines.
+**Introduction**
+Influenza continuously evolves to escape population immunity, which makes formulating a vaccine challenging. Antigenic differences between vaccine strains and circulating strains can affect vaccine effectiveness (VE). Quantifying the antigenic difference between vaccine strains and circulating strains can aid interpretation of VE, and several antigenic distance metrics have been discussed in the literature. Here, we compare how the predicted breadth of vaccine-induced antibody response varies when different metrics are used to calculate antigenic distance.
+
+**Methods**
+We analyzed data from a seasonal influenza vaccine cohort that collected serum samples from 2013/14 – 2017/18 at three study sites. The data include pre- and post-vaccination HAI titers to the vaccine strains and a panel of heterologous strains. We used that data to calculate four different antigenic distance measures between assay strains and vaccine strains: difference in year of isolation (temporal), p-Epitope (sequence), Grantham’s distance (biophysical), and antigenic cartography distance (serological). We analyzed agreement between the four metrics using Spearman’s correlation and intraclass correlation. We then fit Bayesian generalized additive mixed-effects models to predict the effect of antigenic distance on post-vaccination titer after controlling for confounders and analyzed the pairwise difference in predictions between metrics.
+
+**Results**
+The four antigenic distance metrics had low or moderate correlation for influenza subtypes A(H1N1), B/Victoria, and B/Yamagata. A(H3N2) distances were highly correlated. We found that after accounting for pre-vaccination titer, study site, and repeated measurements across individuals, the predicted post-vaccination titers conditional on antigenic distance and subtype were nearly identical across antigenic distance metrics, with A(H3N2) showing the only notable deviation between metrics, despite higher agreement for that subtype.
+
+**Discussion**
+Despite moderate correlation among metrics, we found that different antigenic distance metrics generated similar predictions about breadth of vaccine response. Costly titer assays for antigenic cartography may not be needed when simpler sequence-based metrics suffice for quantifying vaccine breadth.
+
+
 
 ## Software requirements
 
